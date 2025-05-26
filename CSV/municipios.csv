@@ -1,0 +1,1001 @@
+cod_city,name,cod_state
+001,Medellín,002
+001,Arauca,003
+001,Barranquilla,004
+001,Cartagena,005
+001,Tunja,006
+001,Manizales,007
+001,Florencia,008
+001,Yopal,009
+001,Popayán,010
+001,Valledupar,011
+001,Quibdó,012
+001,Montería,014
+001,Soacha,013
+001,Inírida,015
+001,San José del Guaviare,016
+001,Neiva,017
+001,Riohacha,018
+001,Santa Marta,019
+001,Villavicencio,020
+001,Pasto,021
+001,Cúcuta,022
+001,Mocoa,023
+001,Armenia,024
+001,Pereira,025
+001,San Andrés,026
+001,Bucaramanga,027
+001,Sincelejo,028
+001,Ibagué,029
+001,Cali,030
+001,Mitú,031
+001,Puerto Carreño,032
+001,Leticia,001
+002,Medellín,002
+002,Arauca,003
+002,Barranquilla,004
+002,Cartagena,005
+002,Tunja,006
+002,Manizales,007
+002,Florencia,008
+002,Yopal,009
+002,Popayán,010
+002,Valledupar,011
+002,Quibdó,012
+002,Montería,014
+002,Soacha,013
+002,Inírida,015
+002,San José del Guaviare,016
+002,Neiva,017
+002,Riohacha,018
+002,Santa Marta,019
+002,Villavicencio,020
+002,Pasto,021
+002,Cúcuta,022
+002,Mocoa,023
+002,Armenia,024
+002,Pereira,025
+002,San Andrés,026
+002,Bucaramanga,027
+002,Sincelejo,028
+002,Ibagué,029
+002,Cali,030
+002,Mitú,031
+002,Puerto Carreño,032
+002,Leticia,001
+003,Medellín,002
+003,Arauca,003
+003,Barranquilla,004
+003,Cartagena,005
+003,Tunja,006
+003,Manizales,007
+003,Florencia,008
+003,Yopal,009
+003,Popayán,010
+003,Valledupar,011
+003,Quibdó,012
+003,Montería,014
+003,Soacha,013
+003,Inírida,015
+003,San José del Guaviare,016
+003,Neiva,017
+003,Riohacha,018
+003,Santa Marta,019
+003,Villavicencio,020
+003,Pasto,021
+003,Cúcuta,022
+003,Mocoa,023
+003,Armenia,024
+003,Pereira,025
+003,San Andrés,026
+003,Bucaramanga,027
+003,Sincelejo,028
+003,Ibagué,029
+003,Cali,030
+003,Mitú,031
+003,Puerto Carreño,032
+003,Leticia,001
+004,Medellín,002
+004,Arauca,003
+004,Barranquilla,004
+004,Cartagena,005
+004,Tunja,006
+004,Manizales,007
+004,Florencia,008
+004,Yopal,009
+004,Popayán,010
+004,Valledupar,011
+004,Quibdó,012
+004,Montería,014
+004,Soacha,013
+004,Inírida,015
+004,San José del Guaviare,016
+004,Neiva,017
+004,Riohacha,018
+004,Santa Marta,019
+004,Villavicencio,020
+004,Pasto,021
+004,Cúcuta,022
+004,Mocoa,023
+004,Armenia,024
+004,Pereira,025
+004,San Andrés,026
+004,Bucaramanga,027
+004,Sincelejo,028
+004,Ibagué,029
+004,Cali,030
+004,Mitú,031
+004,Puerto Carreño,032
+004,Leticia,001
+005,Medellín,002
+005,Arauca,003
+005,Barranquilla,004
+005,Cartagena,005
+005,Tunja,006
+005,Manizales,007
+005,Florencia,008
+005,Yopal,009
+005,Popayán,010
+005,Valledupar,011
+005,Quibdó,012
+005,Montería,014
+005,Soacha,013
+005,Inírida,015
+005,San José del Guaviare,016
+005,Neiva,017
+005,Riohacha,018
+005,Santa Marta,019
+005,Villavicencio,020
+005,Pasto,021
+005,Cúcuta,022
+005,Mocoa,023
+005,Armenia,024
+005,Pereira,025
+005,San Andrés,026
+005,Bucaramanga,027
+005,Sincelejo,028
+005,Ibagué,029
+005,Cali,030
+005,Mitú,031
+005,Puerto Carreño,032
+005,Leticia,001
+006,Medellín,002
+006,Arauca,003
+006,Barranquilla,004
+006,Cartagena,005
+006,Tunja,006
+006,Manizales,007
+006,Florencia,008
+006,Yopal,009
+006,Popayán,010
+006,Valledupar,011
+006,Quibdó,012
+006,Montería,014
+006,Soacha,013
+006,Inírida,015
+006,San José del Guaviare,016
+006,Neiva,017
+006,Riohacha,018
+006,Santa Marta,019
+006,Villavicencio,020
+006,Pasto,021
+006,Cúcuta,022
+006,Mocoa,023
+006,Armenia,024
+006,Pereira,025
+006,San Andrés,026
+006,Bucaramanga,027
+006,Sincelejo,028
+006,Ibagué,029
+006,Cali,030
+006,Mitú,031
+006,Puerto Carreño,032
+006,Leticia,001
+007,Medellín,002
+007,Arauca,003
+007,Barranquilla,004
+007,Cartagena,005
+007,Tunja,006
+007,Manizales,007
+007,Florencia,008
+007,Yopal,009
+007,Popayán,010
+007,Valledupar,011
+007,Quibdó,012
+007,Montería,014
+007,Soacha,013
+007,Inírida,015
+007,San José del Guaviare,016
+007,Neiva,017
+007,Riohacha,018
+007,Santa Marta,019
+007,Villavicencio,020
+007,Pasto,021
+007,Cúcuta,022
+007,Mocoa,023
+007,Armenia,024
+007,Pereira,025
+007,San Andrés,026
+007,Bucaramanga,027
+007,Sincelejo,028
+007,Ibagué,029
+007,Cali,030
+007,Mitú,031
+007,Puerto Carreño,032
+007,Leticia,001
+008,Medellín,002
+008,Arauca,003
+008,Barranquilla,004
+008,Cartagena,005
+008,Tunja,006
+008,Manizales,007
+008,Florencia,008
+008,Yopal,009
+008,Popayán,010
+008,Valledupar,011
+008,Quibdó,012
+008,Montería,014
+008,Soacha,013
+008,Inírida,015
+008,San José del Guaviare,016
+008,Neiva,017
+008,Riohacha,018
+008,Santa Marta,019
+008,Villavicencio,020
+008,Pasto,021
+008,Cúcuta,022
+008,Mocoa,023
+008,Armenia,024
+008,Pereira,025
+008,San Andrés,026
+008,Bucaramanga,027
+008,Sincelejo,028
+008,Ibagué,029
+008,Cali,030
+008,Mitú,031
+008,Puerto Carreño,032
+008,Leticia,001
+009,Medellín,002
+009,Arauca,003
+009,Barranquilla,004
+009,Cartagena,005
+009,Tunja,006
+009,Manizales,007
+009,Florencia,008
+009,Yopal,009
+009,Popayán,010
+009,Valledupar,011
+009,Quibdó,012
+009,Montería,014
+009,Soacha,013
+009,Inírida,015
+009,San José del Guaviare,016
+009,Neiva,017
+009,Riohacha,018
+009,Santa Marta,019
+009,Villavicencio,020
+009,Pasto,021
+009,Cúcuta,022
+009,Mocoa,023
+009,Armenia,024
+009,Pereira,025
+009,San Andrés,026
+009,Bucaramanga,027
+009,Sincelejo,028
+009,Ibagué,029
+009,Cali,030
+009,Mitú,031
+009,Puerto Carreño,032
+009,Leticia,001
+010,Medellín,002
+010,Arauca,003
+010,Barranquilla,004
+010,Cartagena,005
+010,Tunja,006
+010,Manizales,007
+010,Florencia,008
+010,Yopal,009
+010,Popayán,010
+010,Valledupar,011
+010,Quibdó,012
+010,Montería,014
+010,Soacha,013
+010,Inírida,015
+010,San José del Guaviare,016
+010,Neiva,017
+010,Riohacha,018
+010,Santa Marta,019
+010,Villavicencio,020
+010,Pasto,021
+010,Cúcuta,022
+010,Mocoa,023
+010,Armenia,024
+010,Pereira,025
+010,San Andrés,026
+010,Bucaramanga,027
+010,Sincelejo,028
+010,Ibagué,029
+010,Cali,030
+010,Mitú,031
+010,Puerto Carreño,032
+010,Leticia,001
+011,Medellín,002
+011,Arauca,003
+011,Barranquilla,004
+011,Cartagena,005
+011,Tunja,006
+011,Manizales,007
+011,Florencia,008
+011,Yopal,009
+011,Popayán,010
+011,Valledupar,011
+011,Quibdó,012
+011,Montería,014
+011,Soacha,013
+011,Inírida,015
+011,San José del Guaviare,016
+011,Neiva,017
+011,Riohacha,018
+011,Santa Marta,019
+011,Villavicencio,020
+011,Pasto,021
+011,Cúcuta,022
+011,Mocoa,023
+011,Armenia,024
+011,Pereira,025
+011,San Andrés,026
+011,Bucaramanga,027
+011,Sincelejo,028
+011,Ibagué,029
+011,Cali,030
+011,Mitú,031
+011,Puerto Carreño,032
+011,Leticia,001
+012,Medellín,002
+012,Arauca,003
+012,Barranquilla,004
+012,Cartagena,005
+012,Tunja,006
+012,Manizales,007
+012,Florencia,008
+012,Yopal,009
+012,Popayán,010
+012,Valledupar,011
+012,Quibdó,012
+012,Montería,014
+012,Soacha,013
+012,Inírida,015
+012,San José del Guaviare,016
+012,Neiva,017
+012,Riohacha,018
+012,Santa Marta,019
+012,Villavicencio,020
+012,Pasto,021
+012,Cúcuta,022
+012,Mocoa,023
+012,Armenia,024
+012,Pereira,025
+012,San Andrés,026
+012,Bucaramanga,027
+012,Sincelejo,028
+012,Ibagué,029
+012,Cali,030
+012,Mitú,031
+012,Puerto Carreño,032
+012,Leticia,001
+013,Medellín,002
+013,Arauca,003
+013,Barranquilla,004
+013,Cartagena,005
+013,Tunja,006
+013,Manizales,007
+013,Florencia,008
+013,Yopal,009
+013,Popayán,010
+013,Valledupar,011
+013,Quibdó,012
+013,Montería,014
+013,Soacha,013
+013,Inírida,015
+013,San José del Guaviare,016
+013,Neiva,017
+013,Riohacha,018
+013,Santa Marta,019
+013,Villavicencio,020
+013,Pasto,021
+013,Cúcuta,022
+013,Mocoa,023
+013,Armenia,024
+013,Pereira,025
+013,San Andrés,026
+013,Bucaramanga,027
+013,Sincelejo,028
+013,Ibagué,029
+013,Cali,030
+013,Mitú,031
+013,Puerto Carreño,032
+013,Leticia,001
+014,Medellín,002
+014,Arauca,003
+014,Barranquilla,004
+014,Cartagena,005
+014,Tunja,006
+014,Manizales,007
+014,Florencia,008
+014,Yopal,009
+014,Popayán,010
+014,Valledupar,011
+014,Quibdó,012
+014,Montería,014
+014,Soacha,013
+014,Inírida,015
+014,San José del Guaviare,016
+014,Neiva,017
+014,Riohacha,018
+014,Santa Marta,019
+014,Villavicencio,020
+014,Pasto,021
+014,Cúcuta,022
+014,Mocoa,023
+014,Armenia,024
+014,Pereira,025
+014,San Andrés,026
+014,Bucaramanga,027
+014,Sincelejo,028
+014,Ibagué,029
+014,Cali,030
+014,Mitú,031
+014,Puerto Carreño,032
+014,Leticia,001
+015,Medellín,002
+015,Arauca,003
+015,Barranquilla,004
+015,Cartagena,005
+015,Tunja,006
+015,Manizales,007
+015,Florencia,008
+015,Yopal,009
+015,Popayán,010
+015,Valledupar,011
+015,Quibdó,012
+015,Montería,014
+015,Soacha,013
+015,Inírida,015
+015,San José del Guaviare,016
+015,Neiva,017
+015,Riohacha,018
+015,Santa Marta,019
+015,Villavicencio,020
+015,Pasto,021
+015,Cúcuta,022
+015,Mocoa,023
+015,Armenia,024
+015,Pereira,025
+015,San Andrés,026
+015,Bucaramanga,027
+015,Sincelejo,028
+015,Ibagué,029
+015,Cali,030
+015,Mitú,031
+015,Puerto Carreño,032
+015,Leticia,001
+016,Medellín,002
+016,Arauca,003
+016,Barranquilla,004
+016,Cartagena,005
+016,Tunja,006
+016,Manizales,007
+016,Florencia,008
+016,Yopal,009
+016,Popayán,010
+016,Valledupar,011
+016,Quibdó,012
+016,Montería,014
+016,Soacha,013
+016,Inírida,015
+016,San José del Guaviare,016
+016,Neiva,017
+016,Riohacha,018
+016,Santa Marta,019
+016,Villavicencio,020
+016,Pasto,021
+016,Cúcuta,022
+016,Mocoa,023
+016,Armenia,024
+016,Pereira,025
+016,San Andrés,026
+016,Bucaramanga,027
+016,Sincelejo,028
+016,Ibagué,029
+016,Cali,030
+016,Mitú,031
+016,Puerto Carreño,032
+016,Leticia,001
+017,Medellín,002
+017,Arauca,003
+017,Barranquilla,004
+017,Cartagena,005
+017,Tunja,006
+017,Manizales,007
+017,Florencia,008
+017,Yopal,009
+017,Popayán,010
+017,Valledupar,011
+017,Quibdó,012
+017,Montería,014
+017,Soacha,013
+017,Inírida,015
+017,San José del Guaviare,016
+017,Neiva,017
+017,Riohacha,018
+017,Santa Marta,019
+017,Villavicencio,020
+017,Pasto,021
+017,Cúcuta,022
+017,Mocoa,023
+017,Armenia,024
+017,Pereira,025
+017,San Andrés,026
+017,Bucaramanga,027
+017,Sincelejo,028
+017,Ibagué,029
+017,Cali,030
+017,Mitú,031
+017,Puerto Carreño,032
+017,Leticia,001
+018,Medellín,002
+018,Arauca,003
+018,Barranquilla,004
+018,Cartagena,005
+018,Tunja,006
+018,Manizales,007
+018,Florencia,008
+018,Yopal,009
+018,Popayán,010
+018,Valledupar,011
+018,Quibdó,012
+018,Montería,014
+018,Soacha,013
+018,Inírida,015
+018,San José del Guaviare,016
+018,Neiva,017
+018,Riohacha,018
+018,Santa Marta,019
+018,Villavicencio,020
+018,Pasto,021
+018,Cúcuta,022
+018,Mocoa,023
+018,Armenia,024
+018,Pereira,025
+018,San Andrés,026
+018,Bucaramanga,027
+018,Sincelejo,028
+018,Ibagué,029
+018,Cali,030
+018,Mitú,031
+018,Puerto Carreño,032
+018,Leticia,001
+019,Medellín,002
+019,Arauca,003
+019,Barranquilla,004
+019,Cartagena,005
+019,Tunja,006
+019,Manizales,007
+019,Florencia,008
+019,Yopal,009
+019,Popayán,010
+019,Valledupar,011
+019,Quibdó,012
+019,Montería,014
+019,Soacha,013
+019,Inírida,015
+019,San José del Guaviare,016
+019,Neiva,017
+019,Riohacha,018
+019,Santa Marta,019
+019,Villavicencio,020
+019,Pasto,021
+019,Cúcuta,022
+019,Mocoa,023
+019,Armenia,024
+019,Pereira,025
+019,San Andrés,026
+019,Bucaramanga,027
+019,Sincelejo,028
+019,Ibagué,029
+019,Cali,030
+019,Mitú,031
+019,Puerto Carreño,032
+019,Leticia,001
+020,Medellín,002
+020,Arauca,003
+020,Barranquilla,004
+020,Cartagena,005
+020,Tunja,006
+020,Manizales,007
+020,Florencia,008
+020,Yopal,009
+020,Popayán,010
+020,Valledupar,011
+020,Quibdó,012
+020,Montería,014
+020,Soacha,013
+020,Inírida,015
+020,San José del Guaviare,016
+020,Neiva,017
+020,Riohacha,018
+020,Santa Marta,019
+020,Villavicencio,020
+020,Pasto,021
+020,Cúcuta,022
+020,Mocoa,023
+020,Armenia,024
+020,Pereira,025
+020,San Andrés,026
+020,Bucaramanga,027
+020,Sincelejo,028
+020,Ibagué,029
+020,Cali,030
+020,Mitú,031
+020,Puerto Carreño,032
+020,Leticia,001
+021,Medellín,002
+021,Arauca,003
+021,Barranquilla,004
+021,Cartagena,005
+021,Tunja,006
+021,Manizales,007
+021,Florencia,008
+021,Yopal,009
+021,Popayán,010
+021,Valledupar,011
+021,Quibdó,012
+021,Montería,014
+021,Soacha,013
+021,Inírida,015
+021,San José del Guaviare,016
+021,Neiva,017
+021,Riohacha,018
+021,Santa Marta,019
+021,Villavicencio,020
+021,Pasto,021
+021,Cúcuta,022
+021,Mocoa,023
+021,Armenia,024
+021,Pereira,025
+021,San Andrés,026
+021,Bucaramanga,027
+021,Sincelejo,028
+021,Ibagué,029
+021,Cali,030
+021,Mitú,031
+021,Puerto Carreño,032
+021,Leticia,001
+022,Medellín,002
+022,Arauca,003
+022,Barranquilla,004
+022,Cartagena,005
+022,Tunja,006
+022,Manizales,007
+022,Florencia,008
+022,Yopal,009
+022,Popayán,010
+022,Valledupar,011
+022,Quibdó,012
+022,Montería,014
+022,Soacha,013
+022,Inírida,015
+022,San José del Guaviare,016
+022,Neiva,017
+022,Riohacha,018
+022,Santa Marta,019
+022,Villavicencio,020
+022,Pasto,021
+022,Cúcuta,022
+022,Mocoa,023
+022,Armenia,024
+022,Pereira,025
+022,San Andrés,026
+022,Bucaramanga,027
+022,Sincelejo,028
+022,Ibagué,029
+022,Cali,030
+022,Mitú,031
+022,Puerto Carreño,032
+022,Leticia,001
+023,Medellín,002
+023,Arauca,003
+023,Barranquilla,004
+023,Cartagena,005
+023,Tunja,006
+023,Manizales,007
+023,Florencia,008
+023,Yopal,009
+023,Popayán,010
+023,Valledupar,011
+023,Quibdó,012
+023,Montería,014
+023,Soacha,013
+023,Inírida,015
+023,San José del Guaviare,016
+023,Neiva,017
+023,Riohacha,018
+023,Santa Marta,019
+023,Villavicencio,020
+023,Pasto,021
+023,Cúcuta,022
+023,Mocoa,023
+023,Armenia,024
+023,Pereira,025
+023,San Andrés,026
+023,Bucaramanga,027
+023,Sincelejo,028
+023,Ibagué,029
+023,Cali,030
+023,Mitú,031
+023,Puerto Carreño,032
+023,Leticia,001
+024,Medellín,002
+024,Arauca,003
+024,Barranquilla,004
+024,Cartagena,005
+024,Tunja,006
+024,Manizales,007
+024,Florencia,008
+024,Yopal,009
+024,Popayán,010
+024,Valledupar,011
+024,Quibdó,012
+024,Montería,014
+024,Soacha,013
+024,Inírida,015
+024,San José del Guaviare,016
+024,Neiva,017
+024,Riohacha,018
+024,Santa Marta,019
+024,Villavicencio,020
+024,Pasto,021
+024,Cúcuta,022
+024,Mocoa,023
+024,Armenia,024
+024,Pereira,025
+024,San Andrés,026
+024,Bucaramanga,027
+024,Sincelejo,028
+024,Ibagué,029
+024,Cali,030
+024,Mitú,031
+024,Puerto Carreño,032
+024,Leticia,001
+025,Medellín,002
+025,Arauca,003
+025,Barranquilla,004
+025,Cartagena,005
+025,Tunja,006
+025,Manizales,007
+025,Florencia,008
+025,Yopal,009
+025,Popayán,010
+025,Valledupar,011
+025,Quibdó,012
+025,Montería,014
+025,Soacha,013
+025,Inírida,015
+025,San José del Guaviare,016
+025,Neiva,017
+025,Riohacha,018
+025,Santa Marta,019
+025,Villavicencio,020
+025,Pasto,021
+025,Cúcuta,022
+025,Mocoa,023
+025,Armenia,024
+025,Pereira,025
+025,San Andrés,026
+025,Bucaramanga,027
+025,Sincelejo,028
+025,Ibagué,029
+025,Cali,030
+025,Mitú,031
+025,Puerto Carreño,032
+025,Leticia,001
+026,Medellín,002
+026,Arauca,003
+026,Barranquilla,004
+026,Cartagena,005
+026,Tunja,006
+026,Manizales,007
+026,Florencia,008
+026,Yopal,009
+026,Popayán,010
+026,Valledupar,011
+026,Quibdó,012
+026,Montería,014
+026,Soacha,013
+026,Inírida,015
+026,San José del Guaviare,016
+026,Neiva,017
+026,Riohacha,018
+026,Santa Marta,019
+026,Villavicencio,020
+026,Pasto,021
+026,Cúcuta,022
+026,Mocoa,023
+026,Armenia,024
+026,Pereira,025
+026,San Andrés,026
+026,Bucaramanga,027
+026,Sincelejo,028
+026,Ibagué,029
+026,Cali,030
+026,Mitú,031
+026,Puerto Carreño,032
+026,Leticia,001
+027,Medellín,002
+027,Arauca,003
+027,Barranquilla,004
+027,Cartagena,005
+027,Tunja,006
+027,Manizales,007
+027,Florencia,008
+027,Yopal,009
+027,Popayán,010
+027,Valledupar,011
+027,Quibdó,012
+027,Montería,014
+027,Soacha,013
+027,Inírida,015
+027,San José del Guaviare,016
+027,Neiva,017
+027,Riohacha,018
+027,Santa Marta,019
+027,Villavicencio,020
+027,Pasto,021
+027,Cúcuta,022
+027,Mocoa,023
+027,Armenia,024
+027,Pereira,025
+027,San Andrés,026
+027,Bucaramanga,027
+027,Sincelejo,028
+027,Ibagué,029
+027,Cali,030
+027,Mitú,031
+027,Puerto Carreño,032
+027,Leticia,001
+028,Medellín,002
+028,Arauca,003
+028,Barranquilla,004
+028,Cartagena,005
+028,Tunja,006
+028,Manizales,007
+028,Florencia,008
+028,Yopal,009
+028,Popayán,010
+028,Valledupar,011
+028,Quibdó,012
+028,Montería,014
+028,Soacha,013
+028,Inírida,015
+028,San José del Guaviare,016
+028,Neiva,017
+028,Riohacha,018
+028,Santa Marta,019
+028,Villavicencio,020
+028,Pasto,021
+028,Cúcuta,022
+028,Mocoa,023
+028,Armenia,024
+028,Pereira,025
+028,San Andrés,026
+028,Bucaramanga,027
+028,Sincelejo,028
+028,Ibagué,029
+028,Cali,030
+028,Mitú,031
+028,Puerto Carreño,032
+028,Leticia,001
+029,Medellín,002
+029,Arauca,003
+029,Barranquilla,004
+029,Cartagena,005
+029,Tunja,006
+029,Manizales,007
+029,Florencia,008
+029,Yopal,009
+029,Popayán,010
+029,Valledupar,011
+029,Quibdó,012
+029,Montería,014
+029,Soacha,013
+029,Inírida,015
+029,San José del Guaviare,016
+029,Neiva,017
+029,Riohacha,018
+029,Santa Marta,019
+029,Villavicencio,020
+029,Pasto,021
+029,Cúcuta,022
+029,Mocoa,023
+029,Armenia,024
+029,Pereira,025
+029,San Andrés,026
+029,Bucaramanga,027
+029,Sincelejo,028
+029,Ibagué,029
+029,Cali,030
+029,Mitú,031
+029,Puerto Carreño,032
+029,Leticia,001
+030,Medellín,002
+030,Arauca,003
+030,Barranquilla,004
+030,Cartagena,005
+030,Tunja,006
+030,Manizales,007
+030,Florencia,008
+030,Yopal,009
+030,Popayán,010
+030,Valledupar,011
+030,Quibdó,012
+030,Montería,014
+030,Soacha,013
+030,Inírida,015
+030,San José del Guaviare,016
+030,Neiva,017
+030,Riohacha,018
+030,Santa Marta,019
+030,Villavicencio,020
+030,Pasto,021
+030,Cúcuta,022
+030,Mocoa,023
+030,Armenia,024
+030,Pereira,025
+030,San Andrés,026
+030,Bucaramanga,027
+030,Sincelejo,028
+030,Ibagué,029
+030,Cali,030
+030,Mitú,031
+030,Puerto Carreño,032
+030,Leticia,001
+031,Medellín,002
+031,Arauca,003
+031,Barranquilla,004
+031,Cartagena,005
+031,Tunja,006
+031,Manizales,007
+031,Florencia,008
+031,Yopal,009
+031,Popayán,010
+031,Valledupar,011
+031,Quibdó,012
+031,Montería,014
+031,Soacha,013
+031,Inírida,015
+031,San José del Guaviare,016
+031,Neiva,017
+031,Riohacha,018
+031,Santa Marta,019
+031,Villavicencio,020
+031,Pasto,021
+031,Cúcuta,022
+031,Mocoa,023
+031,Armenia,024
+031,Pereira,025
+031,San Andrés,026
+031,Bucaramanga,027
+031,Sincelejo,028
+031,Ibagué,029
+031,Cali,030
+031,Mitú,031
+031,Puerto Carreño,032
+031,Leticia,001
+032,Medellín,002
+032,Arauca,003
+032,Barranquilla,004
+032,Cartagena,005
+032,Tunja,006
+032,Manizales,007
+032,Florencia,008
+032,Yopal,009

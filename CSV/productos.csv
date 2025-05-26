@@ -1,0 +1,1001 @@
+code_product,name,expiration_date,price,description
+P00001,Metformina,2026-04-30,8000,Medicamento para la diabetes tipo 2.
+P00002,Metformina,2028-01-25,4500,Medicamento para la diabetes tipo 2.
+P00003,Omeprazol,2028-01-24,10000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00004,Dolex,2026-01-18,4000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00005,Amoxicilina,2026-11-07,4500,Antibiótico usado para tratar infecciones bacterianas.
+P00006,Simvastatina,2026-06-29,4000,Reduce el colesterol y triglicéridos.
+P00007,Simvastatina,2027-08-14,50000,Reduce el colesterol y triglicéridos.
+P00008,Losartán,2026-04-30,3500,Usado para tratar la presión arterial alta.
+P00009,Simvastatina,2027-03-19,8000,Reduce el colesterol y triglicéridos.
+P00010,Dolex,2026-01-18,7000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00011,Salbutamol,2026-07-14,25000,Broncodilatador usado para tratar el asma.
+P00012,Acetaminofén,2027-12-12,50000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00013,Amoxicilina,2026-04-29,45000,Antibiótico usado para tratar infecciones bacterianas.
+P00014,Simvastatina,2026-06-13,30000,Reduce el colesterol y triglicéridos.
+P00015,Dolex,2028-02-25,30000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00016,Omeprazol,2027-03-03,4500,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00017,Acetaminofén,2028-04-30,20000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00018,Omeprazol,2027-07-31,8000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00019,Ibuprofeno,2027-04-12,2500,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00020,Loratadina,2026-05-09,15000,Antihistamínico para tratar alergias.
+P00021,Salbutamol,2025-07-04,45000,Broncodilatador usado para tratar el asma.
+P00022,Metformina,2027-02-07,35000,Medicamento para la diabetes tipo 2.
+P00023,Losartán,2027-08-08,18000,Usado para tratar la presión arterial alta.
+P00024,Simvastatina,2028-04-21,4500,Reduce el colesterol y triglicéridos.
+P00025,Losartán,2027-06-19,50000,Usado para tratar la presión arterial alta.
+P00026,Losartán,2025-09-19,8000,Usado para tratar la presión arterial alta.
+P00027,Metformina,2027-01-30,6000,Medicamento para la diabetes tipo 2.
+P00028,Omeprazol,2027-10-17,10000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00029,Loratadina,2028-02-29,50000,Antihistamínico para tratar alergias.
+P00030,Omeprazol,2026-02-16,9000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00031,Acetaminofén,2027-10-14,30000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00032,Acetaminofén,2028-03-27,30000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00033,Metformina,2027-09-24,5000,Medicamento para la diabetes tipo 2.
+P00034,Simvastatina,2026-03-21,18000,Reduce el colesterol y triglicéridos.
+P00035,Loratadina,2028-04-19,12000,Antihistamínico para tratar alergias.
+P00036,Salbutamol,2028-05-14,50000,Broncodilatador usado para tratar el asma.
+P00037,Ibuprofeno,2026-08-06,35000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00038,Ibuprofeno,2027-01-27,18000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00039,Omeprazol,2026-12-21,35000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00040,Dolex,2026-11-05,20000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00041,Acetaminofén,2026-06-10,35000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00042,Acetaminofén,2025-06-30,50000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00043,Salbutamol,2026-12-11,18000,Broncodilatador usado para tratar el asma.
+P00044,Amoxicilina,2025-11-29,7000,Antibiótico usado para tratar infecciones bacterianas.
+P00045,Acetaminofén,2026-09-16,3500,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00046,Metformina,2025-06-27,45000,Medicamento para la diabetes tipo 2.
+P00047,Dolex,2027-02-03,30000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00048,Amoxicilina,2026-04-27,4000,Antibiótico usado para tratar infecciones bacterianas.
+P00049,Ibuprofeno,2026-10-09,4000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00050,Dolex,2027-01-25,30000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00051,Salbutamol,2026-03-01,3500,Broncodilatador usado para tratar el asma.
+P00052,Amoxicilina,2027-10-24,4000,Antibiótico usado para tratar infecciones bacterianas.
+P00053,Dolex,2028-02-09,25000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00054,Amoxicilina,2027-12-03,10000,Antibiótico usado para tratar infecciones bacterianas.
+P00055,Amoxicilina,2026-05-26,7000,Antibiótico usado para tratar infecciones bacterianas.
+P00056,Dolex,2026-10-05,2500,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00057,Ibuprofeno,2028-05-12,35000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00058,Dolex,2027-04-24,2500,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00059,Salbutamol,2026-05-01,45000,Broncodilatador usado para tratar el asma.
+P00060,Acetaminofén,2028-04-20,40000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00061,Loratadina,2027-10-28,4500,Antihistamínico para tratar alergias.
+P00062,Simvastatina,2025-12-23,8000,Reduce el colesterol y triglicéridos.
+P00063,Dolex,2025-09-05,12000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00064,Omeprazol,2026-01-25,40000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00065,Omeprazol,2025-11-10,9000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00066,Salbutamol,2026-06-26,40000,Broncodilatador usado para tratar el asma.
+P00067,Losartán,2026-02-11,40000,Usado para tratar la presión arterial alta.
+P00068,Dolex,2027-06-01,45000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00069,Acetaminofén,2026-09-17,45000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00070,Simvastatina,2025-06-26,5000,Reduce el colesterol y triglicéridos.
+P00071,Ibuprofeno,2027-12-12,25000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00072,Ibuprofeno,2026-03-18,15000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00073,Amoxicilina,2026-02-02,9000,Antibiótico usado para tratar infecciones bacterianas.
+P00074,Losartán,2028-05-19,12000,Usado para tratar la presión arterial alta.
+P00075,Amoxicilina,2026-06-02,3000,Antibiótico usado para tratar infecciones bacterianas.
+P00076,Dolex,2027-05-11,4000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00077,Acetaminofén,2025-12-03,50000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00078,Dolex,2025-10-05,12000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00079,Ibuprofeno,2028-01-03,3500,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00080,Loratadina,2026-01-23,20000,Antihistamínico para tratar alergias.
+P00081,Omeprazol,2027-02-05,4000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00082,Ibuprofeno,2027-04-06,25000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00083,Losartán,2027-08-31,7000,Usado para tratar la presión arterial alta.
+P00084,Simvastatina,2028-03-25,10000,Reduce el colesterol y triglicéridos.
+P00085,Salbutamol,2027-01-20,18000,Broncodilatador usado para tratar el asma.
+P00086,Acetaminofén,2026-04-29,15000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00087,Acetaminofén,2026-01-01,2500,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00088,Salbutamol,2027-01-02,7000,Broncodilatador usado para tratar el asma.
+P00089,Amoxicilina,2025-12-20,50000,Antibiótico usado para tratar infecciones bacterianas.
+P00090,Metformina,2027-06-10,7000,Medicamento para la diabetes tipo 2.
+P00091,Metformina,2027-07-03,9000,Medicamento para la diabetes tipo 2.
+P00092,Amoxicilina,2028-01-12,3000,Antibiótico usado para tratar infecciones bacterianas.
+P00093,Losartán,2025-11-03,25000,Usado para tratar la presión arterial alta.
+P00094,Dolex,2026-03-27,40000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00095,Ibuprofeno,2027-05-02,2500,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00096,Dolex,2027-10-31,50000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00097,Dolex,2026-01-13,12000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00098,Ibuprofeno,2026-12-29,4000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00099,Ibuprofeno,2026-02-03,10000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00100,Metformina,2028-05-23,7000,Medicamento para la diabetes tipo 2.
+P00101,Ibuprofeno,2025-09-07,25000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00102,Dolex,2025-08-05,6000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00103,Omeprazol,2025-10-03,6000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00104,Dolex,2027-02-09,25000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00105,Losartán,2027-10-31,50000,Usado para tratar la presión arterial alta.
+P00106,Simvastatina,2026-06-23,7000,Reduce el colesterol y triglicéridos.
+P00107,Amoxicilina,2026-01-15,5000,Antibiótico usado para tratar infecciones bacterianas.
+P00108,Acetaminofén,2026-01-08,8000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00109,Salbutamol,2026-10-28,15000,Broncodilatador usado para tratar el asma.
+P00110,Dolex,2027-12-13,10000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00111,Acetaminofén,2025-07-04,7000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00112,Amoxicilina,2025-09-18,3000,Antibiótico usado para tratar infecciones bacterianas.
+P00113,Omeprazol,2027-12-24,6000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00114,Acetaminofén,2026-08-25,15000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00115,Metformina,2025-10-23,50000,Medicamento para la diabetes tipo 2.
+P00116,Losartán,2025-07-31,3500,Usado para tratar la presión arterial alta.
+P00117,Omeprazol,2026-03-24,3000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00118,Acetaminofén,2025-11-23,3000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00119,Dolex,2026-03-24,7000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00120,Losartán,2027-11-22,15000,Usado para tratar la presión arterial alta.
+P00121,Omeprazol,2026-11-03,6000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00122,Simvastatina,2028-04-03,12000,Reduce el colesterol y triglicéridos.
+P00123,Salbutamol,2026-06-09,30000,Broncodilatador usado para tratar el asma.
+P00124,Omeprazol,2026-10-23,12000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00125,Acetaminofén,2027-01-16,4500,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00126,Acetaminofén,2028-03-18,20000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00127,Simvastatina,2026-11-22,25000,Reduce el colesterol y triglicéridos.
+P00128,Losartán,2025-08-20,25000,Usado para tratar la presión arterial alta.
+P00129,Metformina,2026-04-25,45000,Medicamento para la diabetes tipo 2.
+P00130,Losartán,2028-03-11,45000,Usado para tratar la presión arterial alta.
+P00131,Loratadina,2026-04-10,40000,Antihistamínico para tratar alergias.
+P00132,Amoxicilina,2026-07-13,3000,Antibiótico usado para tratar infecciones bacterianas.
+P00133,Simvastatina,2027-11-07,7000,Reduce el colesterol y triglicéridos.
+P00134,Dolex,2027-12-29,6000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00135,Losartán,2025-08-04,40000,Usado para tratar la presión arterial alta.
+P00136,Omeprazol,2027-01-22,5000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00137,Salbutamol,2027-09-03,3500,Broncodilatador usado para tratar el asma.
+P00138,Metformina,2025-07-12,25000,Medicamento para la diabetes tipo 2.
+P00139,Metformina,2025-10-27,18000,Medicamento para la diabetes tipo 2.
+P00140,Amoxicilina,2028-01-04,8000,Antibiótico usado para tratar infecciones bacterianas.
+P00141,Simvastatina,2026-01-27,30000,Reduce el colesterol y triglicéridos.
+P00142,Omeprazol,2026-12-30,15000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00143,Omeprazol,2025-12-30,18000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00144,Losartán,2027-09-24,4000,Usado para tratar la presión arterial alta.
+P00145,Amoxicilina,2025-11-19,35000,Antibiótico usado para tratar infecciones bacterianas.
+P00146,Metformina,2025-10-11,20000,Medicamento para la diabetes tipo 2.
+P00147,Loratadina,2027-10-12,5000,Antihistamínico para tratar alergias.
+P00148,Salbutamol,2026-04-10,7000,Broncodilatador usado para tratar el asma.
+P00149,Acetaminofén,2026-12-25,45000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00150,Loratadina,2026-09-29,12000,Antihistamínico para tratar alergias.
+P00151,Losartán,2026-05-26,7000,Usado para tratar la presión arterial alta.
+P00152,Amoxicilina,2026-06-01,9000,Antibiótico usado para tratar infecciones bacterianas.
+P00153,Dolex,2026-08-03,6000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00154,Dolex,2027-10-03,30000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00155,Losartán,2026-01-03,3000,Usado para tratar la presión arterial alta.
+P00156,Omeprazol,2028-02-01,25000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00157,Salbutamol,2027-02-24,30000,Broncodilatador usado para tratar el asma.
+P00158,Simvastatina,2026-05-03,20000,Reduce el colesterol y triglicéridos.
+P00159,Losartán,2025-12-09,10000,Usado para tratar la presión arterial alta.
+P00160,Omeprazol,2027-06-12,40000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00161,Losartán,2027-08-05,50000,Usado para tratar la presión arterial alta.
+P00162,Amoxicilina,2028-01-27,45000,Antibiótico usado para tratar infecciones bacterianas.
+P00163,Metformina,2026-03-11,5000,Medicamento para la diabetes tipo 2.
+P00164,Dolex,2028-03-05,6000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00165,Metformina,2025-07-12,8000,Medicamento para la diabetes tipo 2.
+P00166,Amoxicilina,2027-01-05,3000,Antibiótico usado para tratar infecciones bacterianas.
+P00167,Acetaminofén,2025-08-14,9000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00168,Dolex,2026-04-19,30000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00169,Acetaminofén,2026-10-27,2500,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00170,Dolex,2026-06-11,3000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00171,Ibuprofeno,2026-09-05,30000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00172,Salbutamol,2025-09-08,12000,Broncodilatador usado para tratar el asma.
+P00173,Ibuprofeno,2028-01-30,12000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00174,Dolex,2025-09-27,40000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00175,Acetaminofén,2026-02-11,18000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00176,Metformina,2026-02-05,4000,Medicamento para la diabetes tipo 2.
+P00177,Omeprazol,2026-05-05,10000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00178,Acetaminofén,2027-07-13,20000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00179,Amoxicilina,2026-08-01,15000,Antibiótico usado para tratar infecciones bacterianas.
+P00180,Simvastatina,2027-09-12,6000,Reduce el colesterol y triglicéridos.
+P00181,Losartán,2026-02-03,5000,Usado para tratar la presión arterial alta.
+P00182,Omeprazol,2028-02-02,3500,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00183,Losartán,2025-11-23,20000,Usado para tratar la presión arterial alta.
+P00184,Loratadina,2026-09-30,12000,Antihistamínico para tratar alergias.
+P00185,Loratadina,2026-09-11,4000,Antihistamínico para tratar alergias.
+P00186,Loratadina,2026-10-11,20000,Antihistamínico para tratar alergias.
+P00187,Amoxicilina,2025-11-20,12000,Antibiótico usado para tratar infecciones bacterianas.
+P00188,Losartán,2026-09-26,4000,Usado para tratar la presión arterial alta.
+P00189,Omeprazol,2027-05-31,15000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00190,Dolex,2025-08-27,25000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00191,Metformina,2027-06-29,25000,Medicamento para la diabetes tipo 2.
+P00192,Ibuprofeno,2027-12-04,50000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00193,Losartán,2025-07-20,3500,Usado para tratar la presión arterial alta.
+P00194,Loratadina,2027-11-12,4500,Antihistamínico para tratar alergias.
+P00195,Dolex,2026-05-21,7000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00196,Acetaminofén,2026-10-01,3500,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00197,Losartán,2027-09-01,7000,Usado para tratar la presión arterial alta.
+P00198,Omeprazol,2025-11-22,8000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00199,Salbutamol,2027-10-26,12000,Broncodilatador usado para tratar el asma.
+P00200,Metformina,2027-10-21,12000,Medicamento para la diabetes tipo 2.
+P00201,Dolex,2027-02-28,6000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00202,Loratadina,2026-07-08,7000,Antihistamínico para tratar alergias.
+P00203,Dolex,2027-04-20,4500,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00204,Acetaminofén,2028-03-15,3500,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00205,Omeprazol,2026-09-09,9000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00206,Loratadina,2027-04-22,20000,Antihistamínico para tratar alergias.
+P00207,Loratadina,2028-05-18,5000,Antihistamínico para tratar alergias.
+P00208,Omeprazol,2025-07-08,5000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00209,Loratadina,2027-08-14,7000,Antihistamínico para tratar alergias.
+P00210,Losartán,2026-10-29,4500,Usado para tratar la presión arterial alta.
+P00211,Metformina,2028-05-22,3000,Medicamento para la diabetes tipo 2.
+P00212,Ibuprofeno,2027-01-02,4000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00213,Dolex,2027-02-25,4500,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00214,Metformina,2026-08-06,12000,Medicamento para la diabetes tipo 2.
+P00215,Dolex,2026-10-20,45000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00216,Salbutamol,2026-10-05,5000,Broncodilatador usado para tratar el asma.
+P00217,Loratadina,2026-09-07,4000,Antihistamínico para tratar alergias.
+P00218,Omeprazol,2026-09-04,4500,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00219,Amoxicilina,2025-11-09,8000,Antibiótico usado para tratar infecciones bacterianas.
+P00220,Amoxicilina,2027-10-08,6000,Antibiótico usado para tratar infecciones bacterianas.
+P00221,Omeprazol,2027-05-03,35000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00222,Omeprazol,2028-02-04,40000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00223,Amoxicilina,2027-06-14,3500,Antibiótico usado para tratar infecciones bacterianas.
+P00224,Omeprazol,2028-03-17,5000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00225,Omeprazol,2027-11-18,5000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00226,Dolex,2028-03-19,40000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00227,Ibuprofeno,2027-06-01,45000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00228,Amoxicilina,2027-09-19,50000,Antibiótico usado para tratar infecciones bacterianas.
+P00229,Metformina,2027-07-28,3500,Medicamento para la diabetes tipo 2.
+P00230,Loratadina,2026-08-15,3000,Antihistamínico para tratar alergias.
+P00231,Metformina,2027-07-13,2500,Medicamento para la diabetes tipo 2.
+P00232,Dolex,2028-04-29,25000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00233,Salbutamol,2025-08-15,7000,Broncodilatador usado para tratar el asma.
+P00234,Simvastatina,2026-06-29,20000,Reduce el colesterol y triglicéridos.
+P00235,Omeprazol,2025-09-18,6000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00236,Salbutamol,2025-07-02,8000,Broncodilatador usado para tratar el asma.
+P00237,Metformina,2026-11-06,35000,Medicamento para la diabetes tipo 2.
+P00238,Acetaminofén,2028-01-09,5000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00239,Loratadina,2026-03-17,8000,Antihistamínico para tratar alergias.
+P00240,Metformina,2027-01-10,20000,Medicamento para la diabetes tipo 2.
+P00241,Loratadina,2027-05-23,10000,Antihistamínico para tratar alergias.
+P00242,Ibuprofeno,2026-09-24,4000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00243,Dolex,2027-02-17,7000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00244,Ibuprofeno,2026-05-03,45000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00245,Metformina,2025-11-02,6000,Medicamento para la diabetes tipo 2.
+P00246,Losartán,2026-03-12,20000,Usado para tratar la presión arterial alta.
+P00247,Acetaminofén,2028-01-25,35000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00248,Omeprazol,2026-04-25,15000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00249,Salbutamol,2025-09-10,15000,Broncodilatador usado para tratar el asma.
+P00250,Simvastatina,2026-07-12,30000,Reduce el colesterol y triglicéridos.
+P00251,Loratadina,2027-08-24,30000,Antihistamínico para tratar alergias.
+P00252,Ibuprofeno,2027-01-08,9000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00253,Dolex,2025-10-22,18000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00254,Metformina,2027-09-02,8000,Medicamento para la diabetes tipo 2.
+P00255,Losartán,2027-03-05,20000,Usado para tratar la presión arterial alta.
+P00256,Simvastatina,2027-01-01,20000,Reduce el colesterol y triglicéridos.
+P00257,Ibuprofeno,2025-08-14,4500,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00258,Dolex,2027-09-30,40000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00259,Salbutamol,2027-09-22,25000,Broncodilatador usado para tratar el asma.
+P00260,Dolex,2027-06-08,4000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00261,Amoxicilina,2027-11-28,5000,Antibiótico usado para tratar infecciones bacterianas.
+P00262,Loratadina,2026-01-07,6000,Antihistamínico para tratar alergias.
+P00263,Losartán,2028-01-10,6000,Usado para tratar la presión arterial alta.
+P00264,Dolex,2028-01-24,2500,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00265,Amoxicilina,2026-08-10,2500,Antibiótico usado para tratar infecciones bacterianas.
+P00266,Salbutamol,2027-07-07,30000,Broncodilatador usado para tratar el asma.
+P00267,Losartán,2026-04-22,4500,Usado para tratar la presión arterial alta.
+P00268,Losartán,2026-07-15,40000,Usado para tratar la presión arterial alta.
+P00269,Simvastatina,2027-07-14,18000,Reduce el colesterol y triglicéridos.
+P00270,Salbutamol,2026-01-04,40000,Broncodilatador usado para tratar el asma.
+P00271,Metformina,2027-11-20,4000,Medicamento para la diabetes tipo 2.
+P00272,Loratadina,2026-12-23,7000,Antihistamínico para tratar alergias.
+P00273,Dolex,2027-11-01,7000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00274,Amoxicilina,2026-04-28,5000,Antibiótico usado para tratar infecciones bacterianas.
+P00275,Loratadina,2027-07-03,45000,Antihistamínico para tratar alergias.
+P00276,Losartán,2027-05-20,5000,Usado para tratar la presión arterial alta.
+P00277,Dolex,2028-01-21,4000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00278,Omeprazol,2026-11-12,5000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00279,Amoxicilina,2025-06-29,12000,Antibiótico usado para tratar infecciones bacterianas.
+P00280,Salbutamol,2027-04-24,35000,Broncodilatador usado para tratar el asma.
+P00281,Simvastatina,2026-01-01,20000,Reduce el colesterol y triglicéridos.
+P00282,Salbutamol,2026-05-21,50000,Broncodilatador usado para tratar el asma.
+P00283,Salbutamol,2027-09-04,3000,Broncodilatador usado para tratar el asma.
+P00284,Acetaminofén,2026-05-16,12000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00285,Simvastatina,2026-10-23,30000,Reduce el colesterol y triglicéridos.
+P00286,Losartán,2027-01-03,2500,Usado para tratar la presión arterial alta.
+P00287,Simvastatina,2027-02-11,20000,Reduce el colesterol y triglicéridos.
+P00288,Loratadina,2026-07-11,20000,Antihistamínico para tratar alergias.
+P00289,Loratadina,2027-01-07,40000,Antihistamínico para tratar alergias.
+P00290,Dolex,2027-05-08,20000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00291,Salbutamol,2027-07-16,2500,Broncodilatador usado para tratar el asma.
+P00292,Dolex,2025-06-25,4000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00293,Losartán,2026-03-22,3500,Usado para tratar la presión arterial alta.
+P00294,Amoxicilina,2026-11-29,4500,Antibiótico usado para tratar infecciones bacterianas.
+P00295,Metformina,2026-02-05,6000,Medicamento para la diabetes tipo 2.
+P00296,Losartán,2027-04-08,4000,Usado para tratar la presión arterial alta.
+P00297,Omeprazol,2028-03-15,10000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00298,Salbutamol,2027-05-26,10000,Broncodilatador usado para tratar el asma.
+P00299,Ibuprofeno,2025-12-28,30000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00300,Omeprazol,2028-05-10,50000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00301,Salbutamol,2026-04-03,20000,Broncodilatador usado para tratar el asma.
+P00302,Simvastatina,2028-05-12,20000,Reduce el colesterol y triglicéridos.
+P00303,Omeprazol,2025-06-26,4000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00304,Loratadina,2026-01-08,2500,Antihistamínico para tratar alergias.
+P00305,Losartán,2028-02-01,6000,Usado para tratar la presión arterial alta.
+P00306,Dolex,2027-03-03,18000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00307,Amoxicilina,2025-10-05,30000,Antibiótico usado para tratar infecciones bacterianas.
+P00308,Acetaminofén,2027-02-10,30000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00309,Ibuprofeno,2028-01-24,40000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00310,Loratadina,2027-06-16,20000,Antihistamínico para tratar alergias.
+P00311,Omeprazol,2027-01-21,45000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00312,Salbutamol,2027-08-30,5000,Broncodilatador usado para tratar el asma.
+P00313,Metformina,2025-07-15,15000,Medicamento para la diabetes tipo 2.
+P00314,Dolex,2027-03-12,12000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00315,Metformina,2027-02-05,4000,Medicamento para la diabetes tipo 2.
+P00316,Loratadina,2026-09-19,12000,Antihistamínico para tratar alergias.
+P00317,Acetaminofén,2025-11-02,50000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00318,Metformina,2028-03-26,25000,Medicamento para la diabetes tipo 2.
+P00319,Salbutamol,2027-05-21,4500,Broncodilatador usado para tratar el asma.
+P00320,Simvastatina,2026-11-07,2500,Reduce el colesterol y triglicéridos.
+P00321,Amoxicilina,2028-03-06,10000,Antibiótico usado para tratar infecciones bacterianas.
+P00322,Simvastatina,2028-05-17,20000,Reduce el colesterol y triglicéridos.
+P00323,Omeprazol,2028-05-01,8000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00324,Losartán,2025-08-15,9000,Usado para tratar la presión arterial alta.
+P00325,Salbutamol,2026-01-20,10000,Broncodilatador usado para tratar el asma.
+P00326,Ibuprofeno,2026-09-01,4000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00327,Salbutamol,2027-01-17,12000,Broncodilatador usado para tratar el asma.
+P00328,Amoxicilina,2026-07-26,45000,Antibiótico usado para tratar infecciones bacterianas.
+P00329,Salbutamol,2025-11-20,40000,Broncodilatador usado para tratar el asma.
+P00330,Losartán,2027-07-01,20000,Usado para tratar la presión arterial alta.
+P00331,Omeprazol,2027-02-18,5000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00332,Acetaminofén,2027-12-01,12000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00333,Amoxicilina,2025-08-07,45000,Antibiótico usado para tratar infecciones bacterianas.
+P00334,Salbutamol,2027-05-13,6000,Broncodilatador usado para tratar el asma.
+P00335,Ibuprofeno,2027-12-11,2500,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00336,Loratadina,2027-08-27,12000,Antihistamínico para tratar alergias.
+P00337,Loratadina,2028-01-29,50000,Antihistamínico para tratar alergias.
+P00338,Simvastatina,2027-05-24,4000,Reduce el colesterol y triglicéridos.
+P00339,Loratadina,2026-08-07,3500,Antihistamínico para tratar alergias.
+P00340,Salbutamol,2028-04-20,45000,Broncodilatador usado para tratar el asma.
+P00341,Loratadina,2027-04-24,50000,Antihistamínico para tratar alergias.
+P00342,Salbutamol,2027-01-11,25000,Broncodilatador usado para tratar el asma.
+P00343,Metformina,2026-10-26,18000,Medicamento para la diabetes tipo 2.
+P00344,Dolex,2026-05-01,4500,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00345,Metformina,2027-01-03,3000,Medicamento para la diabetes tipo 2.
+P00346,Acetaminofén,2026-08-16,18000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00347,Acetaminofén,2025-11-02,30000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00348,Losartán,2027-01-22,2500,Usado para tratar la presión arterial alta.
+P00349,Losartán,2028-04-25,15000,Usado para tratar la presión arterial alta.
+P00350,Metformina,2027-05-19,2500,Medicamento para la diabetes tipo 2.
+P00351,Metformina,2027-03-08,30000,Medicamento para la diabetes tipo 2.
+P00352,Metformina,2028-02-12,3000,Medicamento para la diabetes tipo 2.
+P00353,Omeprazol,2027-12-21,50000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00354,Metformina,2027-05-12,4000,Medicamento para la diabetes tipo 2.
+P00355,Omeprazol,2028-05-01,6000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00356,Acetaminofén,2025-12-29,40000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00357,Simvastatina,2026-12-28,3000,Reduce el colesterol y triglicéridos.
+P00358,Amoxicilina,2027-02-27,4000,Antibiótico usado para tratar infecciones bacterianas.
+P00359,Losartán,2026-04-13,3000,Usado para tratar la presión arterial alta.
+P00360,Omeprazol,2028-04-02,9000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00361,Loratadina,2028-03-05,50000,Antihistamínico para tratar alergias.
+P00362,Dolex,2027-02-03,2500,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00363,Losartán,2025-09-21,5000,Usado para tratar la presión arterial alta.
+P00364,Ibuprofeno,2026-07-07,5000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00365,Ibuprofeno,2027-08-22,6000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00366,Simvastatina,2027-09-27,2500,Reduce el colesterol y triglicéridos.
+P00367,Amoxicilina,2027-03-06,50000,Antibiótico usado para tratar infecciones bacterianas.
+P00368,Loratadina,2025-10-07,4000,Antihistamínico para tratar alergias.
+P00369,Omeprazol,2028-01-12,45000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00370,Metformina,2027-02-27,5000,Medicamento para la diabetes tipo 2.
+P00371,Simvastatina,2027-06-05,7000,Reduce el colesterol y triglicéridos.
+P00372,Losartán,2026-11-19,8000,Usado para tratar la presión arterial alta.
+P00373,Dolex,2027-07-26,45000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00374,Ibuprofeno,2026-11-23,5000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00375,Omeprazol,2028-03-29,2500,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00376,Losartán,2025-10-24,45000,Usado para tratar la presión arterial alta.
+P00377,Losartán,2027-06-12,3000,Usado para tratar la presión arterial alta.
+P00378,Omeprazol,2027-05-23,25000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00379,Losartán,2028-05-24,45000,Usado para tratar la presión arterial alta.
+P00380,Omeprazol,2027-12-19,35000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00381,Simvastatina,2025-12-03,25000,Reduce el colesterol y triglicéridos.
+P00382,Ibuprofeno,2027-04-21,30000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00383,Amoxicilina,2028-04-27,6000,Antibiótico usado para tratar infecciones bacterianas.
+P00384,Amoxicilina,2028-01-08,10000,Antibiótico usado para tratar infecciones bacterianas.
+P00385,Acetaminofén,2027-08-13,40000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00386,Losartán,2027-07-13,4000,Usado para tratar la presión arterial alta.
+P00387,Salbutamol,2027-07-17,8000,Broncodilatador usado para tratar el asma.
+P00388,Salbutamol,2026-12-11,10000,Broncodilatador usado para tratar el asma.
+P00389,Amoxicilina,2025-10-09,35000,Antibiótico usado para tratar infecciones bacterianas.
+P00390,Ibuprofeno,2026-11-26,20000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00391,Amoxicilina,2026-12-22,5000,Antibiótico usado para tratar infecciones bacterianas.
+P00392,Losartán,2025-06-25,12000,Usado para tratar la presión arterial alta.
+P00393,Metformina,2026-06-23,30000,Medicamento para la diabetes tipo 2.
+P00394,Amoxicilina,2025-11-20,25000,Antibiótico usado para tratar infecciones bacterianas.
+P00395,Omeprazol,2027-01-14,4500,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00396,Dolex,2026-04-24,50000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00397,Ibuprofeno,2027-03-25,50000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00398,Acetaminofén,2025-10-15,25000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00399,Salbutamol,2026-03-15,20000,Broncodilatador usado para tratar el asma.
+P00400,Dolex,2027-01-07,40000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00401,Losartán,2027-06-04,35000,Usado para tratar la presión arterial alta.
+P00402,Ibuprofeno,2027-08-19,25000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00403,Acetaminofén,2026-05-24,4000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00404,Losartán,2025-08-13,30000,Usado para tratar la presión arterial alta.
+P00405,Loratadina,2027-05-24,15000,Antihistamínico para tratar alergias.
+P00406,Dolex,2027-08-12,40000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00407,Omeprazol,2028-01-21,7000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00408,Loratadina,2027-11-23,40000,Antihistamínico para tratar alergias.
+P00409,Loratadina,2025-12-29,18000,Antihistamínico para tratar alergias.
+P00410,Losartán,2025-12-29,3500,Usado para tratar la presión arterial alta.
+P00411,Ibuprofeno,2027-03-24,5000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00412,Omeprazol,2027-10-27,3000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00413,Metformina,2026-10-24,6000,Medicamento para la diabetes tipo 2.
+P00414,Metformina,2027-10-15,10000,Medicamento para la diabetes tipo 2.
+P00415,Dolex,2028-04-08,35000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00416,Losartán,2026-07-21,12000,Usado para tratar la presión arterial alta.
+P00417,Acetaminofén,2027-11-08,30000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00418,Simvastatina,2028-01-15,4500,Reduce el colesterol y triglicéridos.
+P00419,Simvastatina,2026-03-06,12000,Reduce el colesterol y triglicéridos.
+P00420,Salbutamol,2026-04-21,6000,Broncodilatador usado para tratar el asma.
+P00421,Omeprazol,2026-08-27,40000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00422,Losartán,2026-06-27,5000,Usado para tratar la presión arterial alta.
+P00423,Metformina,2026-08-14,50000,Medicamento para la diabetes tipo 2.
+P00424,Losartán,2027-10-31,4000,Usado para tratar la presión arterial alta.
+P00425,Amoxicilina,2027-05-19,30000,Antibiótico usado para tratar infecciones bacterianas.
+P00426,Salbutamol,2025-12-17,7000,Broncodilatador usado para tratar el asma.
+P00427,Amoxicilina,2027-03-17,4000,Antibiótico usado para tratar infecciones bacterianas.
+P00428,Losartán,2027-02-23,15000,Usado para tratar la presión arterial alta.
+P00429,Loratadina,2026-06-10,3500,Antihistamínico para tratar alergias.
+P00430,Acetaminofén,2028-04-30,8000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00431,Omeprazol,2025-10-13,12000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00432,Omeprazol,2028-01-01,12000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00433,Losartán,2027-01-24,10000,Usado para tratar la presión arterial alta.
+P00434,Metformina,2026-06-03,20000,Medicamento para la diabetes tipo 2.
+P00435,Losartán,2028-01-11,7000,Usado para tratar la presión arterial alta.
+P00436,Amoxicilina,2026-05-23,9000,Antibiótico usado para tratar infecciones bacterianas.
+P00437,Salbutamol,2026-08-31,35000,Broncodilatador usado para tratar el asma.
+P00438,Losartán,2027-03-23,30000,Usado para tratar la presión arterial alta.
+P00439,Amoxicilina,2027-02-28,6000,Antibiótico usado para tratar infecciones bacterianas.
+P00440,Simvastatina,2026-09-06,2500,Reduce el colesterol y triglicéridos.
+P00441,Simvastatina,2027-03-20,12000,Reduce el colesterol y triglicéridos.
+P00442,Metformina,2026-01-19,2500,Medicamento para la diabetes tipo 2.
+P00443,Simvastatina,2026-07-24,8000,Reduce el colesterol y triglicéridos.
+P00444,Acetaminofén,2026-11-16,4500,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00445,Dolex,2027-01-25,10000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00446,Acetaminofén,2027-09-10,3500,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00447,Amoxicilina,2026-07-24,40000,Antibiótico usado para tratar infecciones bacterianas.
+P00448,Ibuprofeno,2028-04-05,40000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00449,Acetaminofén,2027-08-12,10000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00450,Simvastatina,2027-01-09,2500,Reduce el colesterol y triglicéridos.
+P00451,Metformina,2028-04-11,50000,Medicamento para la diabetes tipo 2.
+P00452,Salbutamol,2027-04-21,3500,Broncodilatador usado para tratar el asma.
+P00453,Ibuprofeno,2026-10-07,7000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00454,Amoxicilina,2027-04-14,50000,Antibiótico usado para tratar infecciones bacterianas.
+P00455,Salbutamol,2027-03-23,45000,Broncodilatador usado para tratar el asma.
+P00456,Dolex,2027-12-28,12000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00457,Omeprazol,2026-02-27,30000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00458,Salbutamol,2027-12-04,35000,Broncodilatador usado para tratar el asma.
+P00459,Acetaminofén,2026-05-14,4500,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00460,Metformina,2026-05-18,18000,Medicamento para la diabetes tipo 2.
+P00461,Omeprazol,2027-05-15,10000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00462,Ibuprofeno,2027-09-06,20000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00463,Losartán,2026-03-27,30000,Usado para tratar la presión arterial alta.
+P00464,Losartán,2025-08-21,12000,Usado para tratar la presión arterial alta.
+P00465,Omeprazol,2027-02-12,4000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00466,Dolex,2027-11-06,9000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00467,Amoxicilina,2028-05-18,50000,Antibiótico usado para tratar infecciones bacterianas.
+P00468,Acetaminofén,2027-07-16,3000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00469,Salbutamol,2028-05-08,50000,Broncodilatador usado para tratar el asma.
+P00470,Metformina,2026-11-23,35000,Medicamento para la diabetes tipo 2.
+P00471,Metformina,2026-03-19,10000,Medicamento para la diabetes tipo 2.
+P00472,Ibuprofeno,2028-03-27,18000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00473,Amoxicilina,2025-08-23,20000,Antibiótico usado para tratar infecciones bacterianas.
+P00474,Losartán,2025-07-24,25000,Usado para tratar la presión arterial alta.
+P00475,Omeprazol,2025-07-10,4000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00476,Ibuprofeno,2027-08-29,15000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00477,Dolex,2027-05-26,4000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00478,Dolex,2028-03-18,40000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00479,Loratadina,2026-09-02,12000,Antihistamínico para tratar alergias.
+P00480,Amoxicilina,2027-01-29,2500,Antibiótico usado para tratar infecciones bacterianas.
+P00481,Metformina,2026-04-07,4000,Medicamento para la diabetes tipo 2.
+P00482,Ibuprofeno,2028-01-04,25000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00483,Loratadina,2026-09-29,10000,Antihistamínico para tratar alergias.
+P00484,Ibuprofeno,2026-08-02,10000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00485,Dolex,2028-02-03,3000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00486,Losartán,2026-05-19,9000,Usado para tratar la presión arterial alta.
+P00487,Omeprazol,2028-02-07,15000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00488,Amoxicilina,2028-03-11,9000,Antibiótico usado para tratar infecciones bacterianas.
+P00489,Metformina,2027-01-05,50000,Medicamento para la diabetes tipo 2.
+P00490,Losartán,2027-09-30,4500,Usado para tratar la presión arterial alta.
+P00491,Dolex,2026-01-15,4500,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00492,Simvastatina,2025-09-15,4500,Reduce el colesterol y triglicéridos.
+P00493,Ibuprofeno,2027-10-03,20000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00494,Acetaminofén,2028-01-26,3500,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00495,Ibuprofeno,2026-02-17,10000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00496,Simvastatina,2028-01-07,3000,Reduce el colesterol y triglicéridos.
+P00497,Amoxicilina,2025-12-11,20000,Antibiótico usado para tratar infecciones bacterianas.
+P00498,Salbutamol,2028-01-30,5000,Broncodilatador usado para tratar el asma.
+P00499,Loratadina,2027-11-05,2500,Antihistamínico para tratar alergias.
+P00500,Simvastatina,2027-01-05,3500,Reduce el colesterol y triglicéridos.
+P00501,Loratadina,2027-03-29,45000,Antihistamínico para tratar alergias.
+P00502,Salbutamol,2026-08-19,18000,Broncodilatador usado para tratar el asma.
+P00503,Omeprazol,2026-07-16,3000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00504,Acetaminofén,2026-10-02,3500,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00505,Amoxicilina,2027-09-08,8000,Antibiótico usado para tratar infecciones bacterianas.
+P00506,Dolex,2026-07-17,25000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00507,Acetaminofén,2026-02-04,8000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00508,Loratadina,2027-12-22,50000,Antihistamínico para tratar alergias.
+P00509,Ibuprofeno,2026-03-15,30000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00510,Losartán,2026-10-20,3500,Usado para tratar la presión arterial alta.
+P00511,Losartán,2025-11-21,3000,Usado para tratar la presión arterial alta.
+P00512,Ibuprofeno,2025-09-26,4500,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00513,Simvastatina,2028-04-06,8000,Reduce el colesterol y triglicéridos.
+P00514,Dolex,2025-08-17,5000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00515,Simvastatina,2025-08-27,40000,Reduce el colesterol y triglicéridos.
+P00516,Salbutamol,2028-03-16,45000,Broncodilatador usado para tratar el asma.
+P00517,Amoxicilina,2027-12-20,20000,Antibiótico usado para tratar infecciones bacterianas.
+P00518,Acetaminofén,2025-08-30,35000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00519,Metformina,2027-12-14,20000,Medicamento para la diabetes tipo 2.
+P00520,Losartán,2025-08-28,3500,Usado para tratar la presión arterial alta.
+P00521,Salbutamol,2026-10-29,35000,Broncodilatador usado para tratar el asma.
+P00522,Acetaminofén,2027-02-14,50000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00523,Omeprazol,2027-03-24,12000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00524,Amoxicilina,2026-02-24,3000,Antibiótico usado para tratar infecciones bacterianas.
+P00525,Acetaminofén,2027-11-19,25000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00526,Metformina,2026-03-15,10000,Medicamento para la diabetes tipo 2.
+P00527,Simvastatina,2025-10-28,4500,Reduce el colesterol y triglicéridos.
+P00528,Ibuprofeno,2027-08-13,8000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00529,Simvastatina,2027-09-09,2500,Reduce el colesterol y triglicéridos.
+P00530,Simvastatina,2027-02-20,8000,Reduce el colesterol y triglicéridos.
+P00531,Losartán,2028-04-14,18000,Usado para tratar la presión arterial alta.
+P00532,Losartán,2025-10-02,4500,Usado para tratar la presión arterial alta.
+P00533,Omeprazol,2026-07-01,18000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00534,Simvastatina,2026-02-13,7000,Reduce el colesterol y triglicéridos.
+P00535,Salbutamol,2026-05-09,30000,Broncodilatador usado para tratar el asma.
+P00536,Ibuprofeno,2027-08-09,12000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00537,Salbutamol,2025-08-29,9000,Broncodilatador usado para tratar el asma.
+P00538,Dolex,2026-04-20,5000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00539,Dolex,2027-03-09,18000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00540,Amoxicilina,2025-09-14,5000,Antibiótico usado para tratar infecciones bacterianas.
+P00541,Losartán,2026-07-11,40000,Usado para tratar la presión arterial alta.
+P00542,Omeprazol,2025-11-22,3000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00543,Acetaminofén,2025-10-19,25000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00544,Acetaminofén,2026-12-06,20000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00545,Ibuprofeno,2025-07-05,20000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00546,Metformina,2026-04-04,35000,Medicamento para la diabetes tipo 2.
+P00547,Dolex,2026-11-29,8000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00548,Acetaminofén,2027-05-09,10000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00549,Salbutamol,2027-04-27,10000,Broncodilatador usado para tratar el asma.
+P00550,Omeprazol,2027-08-05,20000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00551,Salbutamol,2025-10-08,40000,Broncodilatador usado para tratar el asma.
+P00552,Ibuprofeno,2028-03-11,30000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00553,Salbutamol,2027-11-18,9000,Broncodilatador usado para tratar el asma.
+P00554,Simvastatina,2026-07-03,45000,Reduce el colesterol y triglicéridos.
+P00555,Ibuprofeno,2027-06-18,15000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00556,Metformina,2026-04-16,7000,Medicamento para la diabetes tipo 2.
+P00557,Omeprazol,2025-11-09,30000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00558,Metformina,2027-04-11,40000,Medicamento para la diabetes tipo 2.
+P00559,Losartán,2027-03-01,25000,Usado para tratar la presión arterial alta.
+P00560,Simvastatina,2026-05-23,4500,Reduce el colesterol y triglicéridos.
+P00561,Ibuprofeno,2026-05-25,4500,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00562,Dolex,2028-03-04,45000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00563,Simvastatina,2028-04-29,8000,Reduce el colesterol y triglicéridos.
+P00564,Dolex,2026-10-25,2500,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00565,Omeprazol,2027-08-10,5000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00566,Salbutamol,2026-11-30,40000,Broncodilatador usado para tratar el asma.
+P00567,Omeprazol,2025-07-22,15000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00568,Omeprazol,2027-03-22,25000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00569,Loratadina,2027-03-23,40000,Antihistamínico para tratar alergias.
+P00570,Acetaminofén,2026-01-10,35000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00571,Ibuprofeno,2026-02-27,9000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00572,Dolex,2025-12-03,40000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00573,Loratadina,2027-06-14,12000,Antihistamínico para tratar alergias.
+P00574,Metformina,2026-09-14,4000,Medicamento para la diabetes tipo 2.
+P00575,Losartán,2026-02-16,18000,Usado para tratar la presión arterial alta.
+P00576,Dolex,2026-10-12,6000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00577,Amoxicilina,2028-04-12,45000,Antibiótico usado para tratar infecciones bacterianas.
+P00578,Salbutamol,2026-02-11,18000,Broncodilatador usado para tratar el asma.
+P00579,Acetaminofén,2025-08-11,8000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00580,Salbutamol,2027-02-05,20000,Broncodilatador usado para tratar el asma.
+P00581,Loratadina,2026-12-11,30000,Antihistamínico para tratar alergias.
+P00582,Loratadina,2028-03-04,3500,Antihistamínico para tratar alergias.
+P00583,Salbutamol,2026-12-25,20000,Broncodilatador usado para tratar el asma.
+P00584,Salbutamol,2026-02-25,2500,Broncodilatador usado para tratar el asma.
+P00585,Acetaminofén,2027-11-02,50000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00586,Metformina,2027-05-11,18000,Medicamento para la diabetes tipo 2.
+P00587,Acetaminofén,2026-10-13,3500,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00588,Loratadina,2028-02-07,10000,Antihistamínico para tratar alergias.
+P00589,Amoxicilina,2026-04-10,35000,Antibiótico usado para tratar infecciones bacterianas.
+P00590,Metformina,2027-07-10,5000,Medicamento para la diabetes tipo 2.
+P00591,Losartán,2028-03-20,12000,Usado para tratar la presión arterial alta.
+P00592,Loratadina,2025-12-01,7000,Antihistamínico para tratar alergias.
+P00593,Losartán,2027-05-28,18000,Usado para tratar la presión arterial alta.
+P00594,Dolex,2026-04-23,15000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00595,Losartán,2027-01-06,9000,Usado para tratar la presión arterial alta.
+P00596,Acetaminofén,2027-10-12,20000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00597,Dolex,2028-02-28,15000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00598,Ibuprofeno,2026-12-20,4500,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00599,Losartán,2027-07-13,12000,Usado para tratar la presión arterial alta.
+P00600,Acetaminofén,2028-04-07,10000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00601,Losartán,2026-10-04,25000,Usado para tratar la presión arterial alta.
+P00602,Simvastatina,2025-09-06,15000,Reduce el colesterol y triglicéridos.
+P00603,Omeprazol,2027-03-19,9000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00604,Loratadina,2025-11-25,3000,Antihistamínico para tratar alergias.
+P00605,Salbutamol,2027-02-05,3500,Broncodilatador usado para tratar el asma.
+P00606,Salbutamol,2028-04-18,3500,Broncodilatador usado para tratar el asma.
+P00607,Amoxicilina,2027-03-10,10000,Antibiótico usado para tratar infecciones bacterianas.
+P00608,Acetaminofén,2027-04-11,40000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00609,Losartán,2026-10-15,20000,Usado para tratar la presión arterial alta.
+P00610,Acetaminofén,2027-12-25,18000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00611,Simvastatina,2025-12-08,10000,Reduce el colesterol y triglicéridos.
+P00612,Omeprazol,2027-03-09,3000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00613,Metformina,2027-04-09,4000,Medicamento para la diabetes tipo 2.
+P00614,Ibuprofeno,2026-08-16,40000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00615,Omeprazol,2028-04-29,4000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00616,Dolex,2027-01-10,25000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00617,Dolex,2027-02-06,35000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00618,Dolex,2027-10-23,7000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00619,Metformina,2027-10-03,15000,Medicamento para la diabetes tipo 2.
+P00620,Loratadina,2027-04-30,45000,Antihistamínico para tratar alergias.
+P00621,Loratadina,2026-01-25,5000,Antihistamínico para tratar alergias.
+P00622,Loratadina,2028-02-09,6000,Antihistamínico para tratar alergias.
+P00623,Dolex,2028-05-09,12000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00624,Losartán,2027-09-23,40000,Usado para tratar la presión arterial alta.
+P00625,Ibuprofeno,2025-07-18,5000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00626,Salbutamol,2026-08-21,18000,Broncodilatador usado para tratar el asma.
+P00627,Salbutamol,2025-12-12,9000,Broncodilatador usado para tratar el asma.
+P00628,Amoxicilina,2027-09-23,6000,Antibiótico usado para tratar infecciones bacterianas.
+P00629,Losartán,2026-11-11,2500,Usado para tratar la presión arterial alta.
+P00630,Dolex,2025-12-05,10000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00631,Losartán,2026-10-17,5000,Usado para tratar la presión arterial alta.
+P00632,Dolex,2027-08-19,3000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00633,Dolex,2026-07-12,9000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00634,Losartán,2025-11-15,18000,Usado para tratar la presión arterial alta.
+P00635,Metformina,2027-05-17,35000,Medicamento para la diabetes tipo 2.
+P00636,Salbutamol,2026-01-05,4000,Broncodilatador usado para tratar el asma.
+P00637,Salbutamol,2026-09-24,15000,Broncodilatador usado para tratar el asma.
+P00638,Simvastatina,2027-05-05,35000,Reduce el colesterol y triglicéridos.
+P00639,Omeprazol,2026-03-09,5000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00640,Acetaminofén,2026-10-09,40000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00641,Dolex,2026-05-19,6000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00642,Simvastatina,2027-12-14,30000,Reduce el colesterol y triglicéridos.
+P00643,Metformina,2027-01-27,10000,Medicamento para la diabetes tipo 2.
+P00644,Omeprazol,2027-08-11,15000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00645,Losartán,2026-05-26,7000,Usado para tratar la presión arterial alta.
+P00646,Losartán,2025-07-31,12000,Usado para tratar la presión arterial alta.
+P00647,Salbutamol,2027-12-26,9000,Broncodilatador usado para tratar el asma.
+P00648,Amoxicilina,2027-02-25,2500,Antibiótico usado para tratar infecciones bacterianas.
+P00649,Metformina,2027-08-06,30000,Medicamento para la diabetes tipo 2.
+P00650,Acetaminofén,2027-05-17,4500,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00651,Omeprazol,2026-01-13,12000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00652,Losartán,2027-08-27,15000,Usado para tratar la presión arterial alta.
+P00653,Simvastatina,2027-06-19,4500,Reduce el colesterol y triglicéridos.
+P00654,Losartán,2027-10-05,40000,Usado para tratar la presión arterial alta.
+P00655,Metformina,2026-12-30,3000,Medicamento para la diabetes tipo 2.
+P00656,Ibuprofeno,2027-08-17,10000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00657,Acetaminofén,2026-10-02,3000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00658,Dolex,2027-05-09,6000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00659,Omeprazol,2027-09-27,25000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00660,Metformina,2027-04-05,30000,Medicamento para la diabetes tipo 2.
+P00661,Losartán,2027-10-29,6000,Usado para tratar la presión arterial alta.
+P00662,Simvastatina,2027-07-02,9000,Reduce el colesterol y triglicéridos.
+P00663,Dolex,2028-05-11,35000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00664,Ibuprofeno,2028-04-08,7000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00665,Dolex,2027-05-23,20000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00666,Ibuprofeno,2025-12-15,45000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00667,Losartán,2028-01-31,20000,Usado para tratar la presión arterial alta.
+P00668,Omeprazol,2026-03-20,2500,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00669,Salbutamol,2028-05-19,12000,Broncodilatador usado para tratar el asma.
+P00670,Salbutamol,2027-08-22,8000,Broncodilatador usado para tratar el asma.
+P00671,Metformina,2026-02-22,2500,Medicamento para la diabetes tipo 2.
+P00672,Losartán,2026-06-26,18000,Usado para tratar la presión arterial alta.
+P00673,Loratadina,2025-09-10,4000,Antihistamínico para tratar alergias.
+P00674,Loratadina,2027-06-27,3000,Antihistamínico para tratar alergias.
+P00675,Salbutamol,2027-09-02,25000,Broncodilatador usado para tratar el asma.
+P00676,Simvastatina,2025-11-09,30000,Reduce el colesterol y triglicéridos.
+P00677,Omeprazol,2026-01-12,3500,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00678,Acetaminofén,2028-03-27,9000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00679,Amoxicilina,2026-01-15,40000,Antibiótico usado para tratar infecciones bacterianas.
+P00680,Loratadina,2027-05-22,3000,Antihistamínico para tratar alergias.
+P00681,Losartán,2027-12-31,15000,Usado para tratar la presión arterial alta.
+P00682,Metformina,2027-01-21,12000,Medicamento para la diabetes tipo 2.
+P00683,Salbutamol,2025-12-10,6000,Broncodilatador usado para tratar el asma.
+P00684,Omeprazol,2027-09-12,7000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00685,Amoxicilina,2025-12-16,3500,Antibiótico usado para tratar infecciones bacterianas.
+P00686,Simvastatina,2027-06-24,30000,Reduce el colesterol y triglicéridos.
+P00687,Losartán,2027-12-08,12000,Usado para tratar la presión arterial alta.
+P00688,Dolex,2026-12-18,10000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00689,Simvastatina,2026-03-25,18000,Reduce el colesterol y triglicéridos.
+P00690,Acetaminofén,2027-12-26,10000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00691,Salbutamol,2025-12-31,30000,Broncodilatador usado para tratar el asma.
+P00692,Omeprazol,2025-08-30,12000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00693,Salbutamol,2026-09-09,9000,Broncodilatador usado para tratar el asma.
+P00694,Losartán,2027-02-05,9000,Usado para tratar la presión arterial alta.
+P00695,Simvastatina,2028-04-23,10000,Reduce el colesterol y triglicéridos.
+P00696,Omeprazol,2026-05-24,3000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00697,Ibuprofeno,2025-11-24,12000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00698,Loratadina,2027-05-15,50000,Antihistamínico para tratar alergias.
+P00699,Acetaminofén,2028-05-04,25000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00700,Metformina,2026-03-27,4000,Medicamento para la diabetes tipo 2.
+P00701,Losartán,2027-11-19,3000,Usado para tratar la presión arterial alta.
+P00702,Losartán,2026-04-02,10000,Usado para tratar la presión arterial alta.
+P00703,Loratadina,2026-08-27,12000,Antihistamínico para tratar alergias.
+P00704,Omeprazol,2025-12-06,9000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00705,Loratadina,2027-12-31,35000,Antihistamínico para tratar alergias.
+P00706,Omeprazol,2026-12-21,7000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00707,Acetaminofén,2026-12-24,4500,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00708,Ibuprofeno,2028-02-27,3000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00709,Metformina,2025-09-12,4000,Medicamento para la diabetes tipo 2.
+P00710,Omeprazol,2026-11-27,18000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00711,Metformina,2026-11-30,4000,Medicamento para la diabetes tipo 2.
+P00712,Salbutamol,2026-10-12,8000,Broncodilatador usado para tratar el asma.
+P00713,Loratadina,2026-10-10,4000,Antihistamínico para tratar alergias.
+P00714,Acetaminofén,2026-06-26,18000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00715,Acetaminofén,2027-07-02,4000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00716,Simvastatina,2026-10-22,7000,Reduce el colesterol y triglicéridos.
+P00717,Amoxicilina,2028-04-19,45000,Antibiótico usado para tratar infecciones bacterianas.
+P00718,Acetaminofén,2026-06-01,2500,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00719,Metformina,2028-01-27,50000,Medicamento para la diabetes tipo 2.
+P00720,Loratadina,2026-03-15,45000,Antihistamínico para tratar alergias.
+P00721,Simvastatina,2026-06-07,18000,Reduce el colesterol y triglicéridos.
+P00722,Simvastatina,2027-11-23,25000,Reduce el colesterol y triglicéridos.
+P00723,Salbutamol,2026-10-09,12000,Broncodilatador usado para tratar el asma.
+P00724,Loratadina,2025-09-09,8000,Antihistamínico para tratar alergias.
+P00725,Simvastatina,2027-11-29,6000,Reduce el colesterol y triglicéridos.
+P00726,Loratadina,2027-08-18,8000,Antihistamínico para tratar alergias.
+P00727,Simvastatina,2026-08-07,2500,Reduce el colesterol y triglicéridos.
+P00728,Losartán,2028-05-24,20000,Usado para tratar la presión arterial alta.
+P00729,Omeprazol,2025-10-25,12000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00730,Acetaminofén,2027-07-29,20000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00731,Amoxicilina,2025-11-06,35000,Antibiótico usado para tratar infecciones bacterianas.
+P00732,Losartán,2027-09-07,18000,Usado para tratar la presión arterial alta.
+P00733,Acetaminofén,2026-12-13,40000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00734,Amoxicilina,2025-12-28,7000,Antibiótico usado para tratar infecciones bacterianas.
+P00735,Dolex,2026-06-12,7000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00736,Salbutamol,2027-08-25,4500,Broncodilatador usado para tratar el asma.
+P00737,Loratadina,2027-11-03,4000,Antihistamínico para tratar alergias.
+P00738,Metformina,2025-11-19,4000,Medicamento para la diabetes tipo 2.
+P00739,Simvastatina,2028-03-21,9000,Reduce el colesterol y triglicéridos.
+P00740,Ibuprofeno,2026-01-29,5000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00741,Losartán,2025-09-18,25000,Usado para tratar la presión arterial alta.
+P00742,Acetaminofén,2028-01-11,30000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00743,Dolex,2027-11-29,4000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00744,Salbutamol,2027-08-06,8000,Broncodilatador usado para tratar el asma.
+P00745,Dolex,2027-03-28,6000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00746,Losartán,2026-09-12,20000,Usado para tratar la presión arterial alta.
+P00747,Dolex,2026-06-10,4500,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00748,Loratadina,2027-04-06,2500,Antihistamínico para tratar alergias.
+P00749,Amoxicilina,2026-07-06,4000,Antibiótico usado para tratar infecciones bacterianas.
+P00750,Amoxicilina,2026-04-22,30000,Antibiótico usado para tratar infecciones bacterianas.
+P00751,Dolex,2028-04-21,9000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00752,Ibuprofeno,2026-11-17,35000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00753,Amoxicilina,2027-10-02,20000,Antibiótico usado para tratar infecciones bacterianas.
+P00754,Losartán,2027-06-09,4500,Usado para tratar la presión arterial alta.
+P00755,Loratadina,2026-05-20,50000,Antihistamínico para tratar alergias.
+P00756,Acetaminofén,2025-07-31,45000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00757,Simvastatina,2027-03-29,2500,Reduce el colesterol y triglicéridos.
+P00758,Simvastatina,2027-09-01,20000,Reduce el colesterol y triglicéridos.
+P00759,Salbutamol,2025-11-21,18000,Broncodilatador usado para tratar el asma.
+P00760,Amoxicilina,2026-12-13,35000,Antibiótico usado para tratar infecciones bacterianas.
+P00761,Ibuprofeno,2025-09-24,3000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00762,Metformina,2027-02-11,50000,Medicamento para la diabetes tipo 2.
+P00763,Salbutamol,2027-10-18,8000,Broncodilatador usado para tratar el asma.
+P00764,Ibuprofeno,2027-01-04,12000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00765,Simvastatina,2026-10-29,10000,Reduce el colesterol y triglicéridos.
+P00766,Salbutamol,2027-08-18,50000,Broncodilatador usado para tratar el asma.
+P00767,Salbutamol,2028-01-29,50000,Broncodilatador usado para tratar el asma.
+P00768,Dolex,2026-09-01,20000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00769,Salbutamol,2027-01-29,9000,Broncodilatador usado para tratar el asma.
+P00770,Ibuprofeno,2027-12-18,6000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00771,Losartán,2026-01-06,10000,Usado para tratar la presión arterial alta.
+P00772,Amoxicilina,2026-08-09,50000,Antibiótico usado para tratar infecciones bacterianas.
+P00773,Salbutamol,2027-11-10,3500,Broncodilatador usado para tratar el asma.
+P00774,Ibuprofeno,2025-11-16,50000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00775,Omeprazol,2028-04-30,40000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00776,Salbutamol,2027-02-17,50000,Broncodilatador usado para tratar el asma.
+P00777,Metformina,2027-06-12,7000,Medicamento para la diabetes tipo 2.
+P00778,Metformina,2026-03-22,30000,Medicamento para la diabetes tipo 2.
+P00779,Dolex,2027-02-10,15000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00780,Loratadina,2026-01-27,4000,Antihistamínico para tratar alergias.
+P00781,Ibuprofeno,2027-07-12,3000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00782,Losartán,2026-11-04,20000,Usado para tratar la presión arterial alta.
+P00783,Losartán,2027-04-06,2500,Usado para tratar la presión arterial alta.
+P00784,Loratadina,2026-12-24,3500,Antihistamínico para tratar alergias.
+P00785,Ibuprofeno,2028-04-08,9000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00786,Loratadina,2026-04-15,12000,Antihistamínico para tratar alergias.
+P00787,Simvastatina,2026-12-06,45000,Reduce el colesterol y triglicéridos.
+P00788,Amoxicilina,2026-01-11,3000,Antibiótico usado para tratar infecciones bacterianas.
+P00789,Losartán,2026-02-15,25000,Usado para tratar la presión arterial alta.
+P00790,Amoxicilina,2027-09-05,50000,Antibiótico usado para tratar infecciones bacterianas.
+P00791,Losartán,2026-06-13,30000,Usado para tratar la presión arterial alta.
+P00792,Metformina,2028-05-06,12000,Medicamento para la diabetes tipo 2.
+P00793,Acetaminofén,2027-04-05,4500,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00794,Omeprazol,2027-01-01,40000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00795,Losartán,2028-03-27,50000,Usado para tratar la presión arterial alta.
+P00796,Acetaminofén,2027-11-01,15000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00797,Dolex,2027-03-12,10000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00798,Losartán,2027-01-06,4500,Usado para tratar la presión arterial alta.
+P00799,Metformina,2027-05-30,3000,Medicamento para la diabetes tipo 2.
+P00800,Dolex,2026-01-03,12000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00801,Ibuprofeno,2026-10-07,30000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00802,Dolex,2026-07-29,40000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00803,Losartán,2026-10-10,9000,Usado para tratar la presión arterial alta.
+P00804,Loratadina,2026-08-25,35000,Antihistamínico para tratar alergias.
+P00805,Amoxicilina,2026-05-02,12000,Antibiótico usado para tratar infecciones bacterianas.
+P00806,Loratadina,2025-08-27,40000,Antihistamínico para tratar alergias.
+P00807,Omeprazol,2028-02-19,20000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00808,Salbutamol,2027-09-27,4500,Broncodilatador usado para tratar el asma.
+P00809,Omeprazol,2026-12-27,25000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00810,Simvastatina,2025-12-09,5000,Reduce el colesterol y triglicéridos.
+P00811,Omeprazol,2026-03-01,4000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00812,Loratadina,2027-07-30,7000,Antihistamínico para tratar alergias.
+P00813,Dolex,2027-02-05,4500,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00814,Omeprazol,2026-08-16,3500,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00815,Losartán,2028-04-25,8000,Usado para tratar la presión arterial alta.
+P00816,Acetaminofén,2027-11-25,18000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00817,Loratadina,2026-05-13,6000,Antihistamínico para tratar alergias.
+P00818,Salbutamol,2027-06-09,12000,Broncodilatador usado para tratar el asma.
+P00819,Amoxicilina,2027-09-03,5000,Antibiótico usado para tratar infecciones bacterianas.
+P00820,Simvastatina,2026-01-29,12000,Reduce el colesterol y triglicéridos.
+P00821,Dolex,2027-05-20,40000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00822,Ibuprofeno,2026-03-31,3000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00823,Ibuprofeno,2028-05-14,4500,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00824,Omeprazol,2027-06-21,6000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00825,Dolex,2026-01-08,12000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00826,Loratadina,2026-12-15,3000,Antihistamínico para tratar alergias.
+P00827,Omeprazol,2028-05-03,3000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00828,Dolex,2025-07-14,35000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00829,Simvastatina,2028-04-06,50000,Reduce el colesterol y triglicéridos.
+P00830,Simvastatina,2028-03-22,6000,Reduce el colesterol y triglicéridos.
+P00831,Dolex,2026-09-11,7000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00832,Ibuprofeno,2027-12-26,6000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00833,Dolex,2027-12-03,6000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00834,Losartán,2026-02-06,15000,Usado para tratar la presión arterial alta.
+P00835,Losartán,2027-10-16,3500,Usado para tratar la presión arterial alta.
+P00836,Amoxicilina,2026-05-03,45000,Antibiótico usado para tratar infecciones bacterianas.
+P00837,Losartán,2027-05-05,6000,Usado para tratar la presión arterial alta.
+P00838,Acetaminofén,2027-06-02,8000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00839,Losartán,2028-05-14,7000,Usado para tratar la presión arterial alta.
+P00840,Salbutamol,2025-12-26,5000,Broncodilatador usado para tratar el asma.
+P00841,Acetaminofén,2026-05-20,2500,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00842,Dolex,2026-02-17,35000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00843,Loratadina,2026-10-20,20000,Antihistamínico para tratar alergias.
+P00844,Metformina,2025-08-09,40000,Medicamento para la diabetes tipo 2.
+P00845,Metformina,2026-02-27,25000,Medicamento para la diabetes tipo 2.
+P00846,Metformina,2026-12-04,7000,Medicamento para la diabetes tipo 2.
+P00847,Losartán,2026-09-14,9000,Usado para tratar la presión arterial alta.
+P00848,Dolex,2027-05-07,40000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00849,Losartán,2026-08-12,50000,Usado para tratar la presión arterial alta.
+P00850,Salbutamol,2027-09-06,8000,Broncodilatador usado para tratar el asma.
+P00851,Dolex,2026-03-11,35000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00852,Salbutamol,2027-09-09,7000,Broncodilatador usado para tratar el asma.
+P00853,Omeprazol,2028-02-27,6000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00854,Acetaminofén,2027-02-20,7000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00855,Metformina,2026-11-10,10000,Medicamento para la diabetes tipo 2.
+P00856,Simvastatina,2026-10-06,50000,Reduce el colesterol y triglicéridos.
+P00857,Amoxicilina,2026-09-08,18000,Antibiótico usado para tratar infecciones bacterianas.
+P00858,Ibuprofeno,2026-01-22,18000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00859,Metformina,2027-01-19,5000,Medicamento para la diabetes tipo 2.
+P00860,Salbutamol,2026-10-27,7000,Broncodilatador usado para tratar el asma.
+P00861,Metformina,2025-09-10,8000,Medicamento para la diabetes tipo 2.
+P00862,Dolex,2028-04-30,6000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00863,Metformina,2028-04-26,50000,Medicamento para la diabetes tipo 2.
+P00864,Salbutamol,2025-07-08,15000,Broncodilatador usado para tratar el asma.
+P00865,Dolex,2028-01-17,9000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00866,Omeprazol,2026-06-28,6000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00867,Amoxicilina,2027-04-04,10000,Antibiótico usado para tratar infecciones bacterianas.
+P00868,Amoxicilina,2026-10-20,40000,Antibiótico usado para tratar infecciones bacterianas.
+P00869,Dolex,2027-11-20,50000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00870,Dolex,2025-12-13,25000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00871,Simvastatina,2026-07-26,7000,Reduce el colesterol y triglicéridos.
+P00872,Acetaminofén,2027-06-08,6000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00873,Metformina,2026-04-22,10000,Medicamento para la diabetes tipo 2.
+P00874,Salbutamol,2026-02-11,7000,Broncodilatador usado para tratar el asma.
+P00875,Omeprazol,2025-06-29,20000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00876,Salbutamol,2028-03-08,8000,Broncodilatador usado para tratar el asma.
+P00877,Salbutamol,2028-01-09,40000,Broncodilatador usado para tratar el asma.
+P00878,Losartán,2026-08-27,40000,Usado para tratar la presión arterial alta.
+P00879,Loratadina,2026-09-13,7000,Antihistamínico para tratar alergias.
+P00880,Loratadina,2027-08-03,10000,Antihistamínico para tratar alergias.
+P00881,Ibuprofeno,2028-02-13,6000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00882,Losartán,2027-01-20,50000,Usado para tratar la presión arterial alta.
+P00883,Salbutamol,2027-02-04,6000,Broncodilatador usado para tratar el asma.
+P00884,Omeprazol,2026-05-04,50000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00885,Simvastatina,2026-08-02,6000,Reduce el colesterol y triglicéridos.
+P00886,Metformina,2026-07-06,8000,Medicamento para la diabetes tipo 2.
+P00887,Ibuprofeno,2027-01-13,45000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00888,Metformina,2026-04-21,2500,Medicamento para la diabetes tipo 2.
+P00889,Losartán,2026-05-03,8000,Usado para tratar la presión arterial alta.
+P00890,Salbutamol,2026-02-27,9000,Broncodilatador usado para tratar el asma.
+P00891,Metformina,2026-10-05,30000,Medicamento para la diabetes tipo 2.
+P00892,Amoxicilina,2026-11-14,25000,Antibiótico usado para tratar infecciones bacterianas.
+P00893,Loratadina,2027-12-22,15000,Antihistamínico para tratar alergias.
+P00894,Amoxicilina,2027-09-12,4000,Antibiótico usado para tratar infecciones bacterianas.
+P00895,Amoxicilina,2026-09-30,7000,Antibiótico usado para tratar infecciones bacterianas.
+P00896,Metformina,2028-01-16,12000,Medicamento para la diabetes tipo 2.
+P00897,Metformina,2025-07-21,35000,Medicamento para la diabetes tipo 2.
+P00898,Acetaminofén,2025-12-13,9000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00899,Losartán,2027-01-17,25000,Usado para tratar la presión arterial alta.
+P00900,Amoxicilina,2025-07-13,30000,Antibiótico usado para tratar infecciones bacterianas.
+P00901,Ibuprofeno,2026-04-02,8000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00902,Metformina,2026-11-12,3000,Medicamento para la diabetes tipo 2.
+P00903,Dolex,2026-01-21,15000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00904,Salbutamol,2026-01-11,3500,Broncodilatador usado para tratar el asma.
+P00905,Simvastatina,2026-03-26,15000,Reduce el colesterol y triglicéridos.
+P00906,Acetaminofén,2028-04-29,3000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00907,Loratadina,2026-08-11,15000,Antihistamínico para tratar alergias.
+P00908,Amoxicilina,2027-11-17,20000,Antibiótico usado para tratar infecciones bacterianas.
+P00909,Amoxicilina,2026-12-19,30000,Antibiótico usado para tratar infecciones bacterianas.
+P00910,Omeprazol,2027-04-08,25000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00911,Salbutamol,2025-11-26,30000,Broncodilatador usado para tratar el asma.
+P00912,Loratadina,2026-12-29,4500,Antihistamínico para tratar alergias.
+P00913,Losartán,2028-04-12,5000,Usado para tratar la presión arterial alta.
+P00914,Metformina,2026-11-05,12000,Medicamento para la diabetes tipo 2.
+P00915,Amoxicilina,2028-04-02,40000,Antibiótico usado para tratar infecciones bacterianas.
+P00916,Omeprazol,2027-04-30,12000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00917,Losartán,2027-01-17,7000,Usado para tratar la presión arterial alta.
+P00918,Acetaminofén,2028-01-23,5000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00919,Omeprazol,2027-11-30,2500,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00920,Losartán,2028-01-24,4500,Usado para tratar la presión arterial alta.
+P00921,Loratadina,2027-01-28,6000,Antihistamínico para tratar alergias.
+P00922,Amoxicilina,2025-12-30,3500,Antibiótico usado para tratar infecciones bacterianas.
+P00923,Dolex,2026-09-07,20000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00924,Metformina,2025-12-19,40000,Medicamento para la diabetes tipo 2.
+P00925,Dolex,2028-04-29,30000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00926,Omeprazol,2027-10-23,18000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00927,Amoxicilina,2025-09-12,7000,Antibiótico usado para tratar infecciones bacterianas.
+P00928,Loratadina,2025-12-13,15000,Antihistamínico para tratar alergias.
+P00929,Omeprazol,2028-01-06,10000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00930,Salbutamol,2025-11-07,40000,Broncodilatador usado para tratar el asma.
+P00931,Loratadina,2026-05-22,2500,Antihistamínico para tratar alergias.
+P00932,Acetaminofén,2027-11-25,30000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00933,Amoxicilina,2027-09-24,4000,Antibiótico usado para tratar infecciones bacterianas.
+P00934,Losartán,2026-08-06,2500,Usado para tratar la presión arterial alta.
+P00935,Loratadina,2026-06-04,18000,Antihistamínico para tratar alergias.
+P00936,Acetaminofén,2025-08-19,35000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00937,Omeprazol,2026-07-09,3500,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00938,Metformina,2026-10-22,50000,Medicamento para la diabetes tipo 2.
+P00939,Dolex,2025-10-31,4500,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00940,Ibuprofeno,2027-07-15,5000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00941,Ibuprofeno,2027-11-29,6000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00942,Dolex,2027-05-23,12000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00943,Loratadina,2025-11-11,6000,Antihistamínico para tratar alergias.
+P00944,Ibuprofeno,2027-04-22,40000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00945,Omeprazol,2026-02-16,15000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00946,Simvastatina,2026-01-26,8000,Reduce el colesterol y triglicéridos.
+P00947,Omeprazol,2027-07-23,3000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00948,Metformina,2025-06-28,18000,Medicamento para la diabetes tipo 2.
+P00949,Salbutamol,2027-10-05,45000,Broncodilatador usado para tratar el asma.
+P00950,Acetaminofén,2025-12-19,18000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00951,Losartán,2027-03-25,12000,Usado para tratar la presión arterial alta.
+P00952,Loratadina,2025-08-28,45000,Antihistamínico para tratar alergias.
+P00953,Omeprazol,2025-08-12,9000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00954,Loratadina,2026-01-18,4000,Antihistamínico para tratar alergias.
+P00955,Omeprazol,2025-09-14,12000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00956,Omeprazol,2027-07-14,4000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00957,Ibuprofeno,2027-03-02,3000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00958,Simvastatina,2026-01-24,12000,Reduce el colesterol y triglicéridos.
+P00959,Omeprazol,2026-08-10,3000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00960,Dolex,2026-08-24,15000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00961,Acetaminofén,2026-12-15,9000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00962,Amoxicilina,2025-08-20,9000,Antibiótico usado para tratar infecciones bacterianas.
+P00963,Amoxicilina,2027-05-12,15000,Antibiótico usado para tratar infecciones bacterianas.
+P00964,Acetaminofén,2027-11-23,4500,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00965,Metformina,2025-07-05,2500,Medicamento para la diabetes tipo 2.
+P00966,Loratadina,2027-09-14,6000,Antihistamínico para tratar alergias.
+P00967,Metformina,2026-08-28,9000,Medicamento para la diabetes tipo 2.
+P00968,Omeprazol,2026-08-08,45000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00969,Metformina,2026-12-11,40000,Medicamento para la diabetes tipo 2.
+P00970,Amoxicilina,2026-01-29,3500,Antibiótico usado para tratar infecciones bacterianas.
+P00971,Dolex,2028-03-19,3000,Marca comercial de acetaminofén usada para aliviar el dolor.
+P00972,Acetaminofén,2026-07-09,45000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00973,Amoxicilina,2026-04-25,35000,Antibiótico usado para tratar infecciones bacterianas.
+P00974,Acetaminofén,2027-12-20,3000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00975,Salbutamol,2028-01-06,7000,Broncodilatador usado para tratar el asma.
+P00976,Loratadina,2026-12-14,9000,Antihistamínico para tratar alergias.
+P00977,Ibuprofeno,2025-09-13,18000,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00978,Losartán,2026-04-11,6000,Usado para tratar la presión arterial alta.
+P00979,Omeprazol,2026-05-31,35000,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00980,Salbutamol,2025-09-21,5000,Broncodilatador usado para tratar el asma.
+P00981,Salbutamol,2027-05-31,35000,Broncodilatador usado para tratar el asma.
+P00982,Amoxicilina,2027-09-28,6000,Antibiótico usado para tratar infecciones bacterianas.
+P00983,Loratadina,2026-11-29,35000,Antihistamínico para tratar alergias.
+P00984,Salbutamol,2026-06-06,3500,Broncodilatador usado para tratar el asma.
+P00985,Omeprazol,2028-04-13,3500,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00986,Acetaminofén,2027-04-25,35000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00987,Loratadina,2028-05-08,45000,Antihistamínico para tratar alergias.
+P00988,Acetaminofén,2027-08-30,35000,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00989,Amoxicilina,2026-09-24,20000,Antibiótico usado para tratar infecciones bacterianas.
+P00990,Loratadina,2027-03-23,7000,Antihistamínico para tratar alergias.
+P00991,Acetaminofén,2026-06-21,4500,Analgésico y antipirético usado para aliviar el dolor y reducir la fiebre.
+P00992,Ibuprofeno,2026-03-22,3500,Antiinflamatorio no esteroideo para el tratamiento del dolor leve y fiebre.
+P00993,Loratadina,2025-08-23,20000,Antihistamínico para tratar alergias.
+P00994,Metformina,2028-02-02,18000,Medicamento para la diabetes tipo 2.
+P00995,Salbutamol,2027-12-10,50000,Broncodilatador usado para tratar el asma.
+P00996,Losartán,2028-02-02,6000,Usado para tratar la presión arterial alta.
+P00997,Loratadina,2027-01-15,25000,Antihistamínico para tratar alergias.
+P00998,Omeprazol,2028-04-27,2500,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P00999,Omeprazol,2026-12-09,4500,Inhibidor de la bomba de protones usado para tratar problemas gástricos.
+P01000,Salbutamol,2026-01-14,5000,Broncodilatador usado para tratar el asma.
